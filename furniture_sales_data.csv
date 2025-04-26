@@ -1,0 +1,1001 @@
+Order ID,Order Date,Customer Name,Product Category,Product Name,Quantity,Unit Price,Total Sales
+Fn10,23-03-2025,Emma Williams,Furniture,TV Stand,4,245.49,981.96
+Fn11,06-08-2024,Paul Owens,Furniture,Dining Table,3,274.87,824.61
+Fn12,01-09-2024,Joseph Thompson,Furniture,Bed Frame,7,397.84,2784.88
+Fn13,17-05-2024,Allison Jones,Furniture,Desk,7,596.87,4178.09
+Fn14,04-10-2024,Sherry Ferguson,Furniture,Bookshelf,3,666.24,1998.72
+Fn15,25-09-2024,Hannah Banks,Furniture,Recliner,3,995.5,2986.5
+Fn16,19-03-2025,Joseph Adams,Furniture,Dining Table,4,500.42,2001.68
+Fn17,15-11-2024,Allison Morris,Furniture,Coffee Table,5,459.35,2296.75
+Fn18,19-03-2025,David Perry,Furniture,Bookshelf,4,934.04,3736.16
+Fn19,23-04-2025,Juan Hahn,Furniture,Desk,1,478.89,478.89
+Fn20,31-07-2024,Nicholas Peterson,Furniture,Desk,5,544.1,2720.5
+Fn21,17-10-2024,Ryan Thompson,Furniture,Wardrobe,6,799.95,4799.7
+Fn22,16-09-2024,Raymond Gomez,Furniture,Sofa,2,198.71,397.42
+Fn23,22-08-2024,Briana Salazar,Furniture,Recliner,3,985.21,2955.63
+Fn24,14-06-2024,Mark Rich,Furniture,Bed Frame,8,405.39,3243.12
+Fn25,20-06-2024,Joe Griffin,Furniture,Sofa,1,957.48,957.48
+Fn26,16-09-2024,Jacob Huynh,Furniture,Bookshelf,8,926.19,7409.52
+Fn27,11-12-2024,Julia Miller,Furniture,Dining Table,4,97.35,389.4
+Fn28,03-03-2025,Erica Pitts,Furniture,Bed Frame,8,246.62,1972.96
+Fn29,16-02-2025,Brendan Nelson,Furniture,Recliner,9,873.78,7864.02
+Fn30,03-10-2024,Anna Hartman,Furniture,Dining Table,2,885.41,1770.82
+Fn31,19-10-2024,Gabriel Jones,Furniture,Desk,4,597.8,2391.2
+Fn32,02-02-2025,Cheryl Valdez,Furniture,Wardrobe,7,744.33,5210.31
+Fn33,06-11-2024,Melissa Adams,Furniture,Bookshelf,3,443.67,1331.01
+Fn34,30-05-2024,Hector Jackson,Furniture,Office Chair,5,651.06,3255.3
+Fn35,17-05-2024,Lori Ortiz,Furniture,Recliner,2,341.47,682.94
+Fn36,08-12-2024,David Brown,Furniture,Coffee Table,6,581.57,3489.42
+Fn37,03-02-2025,Regina Johnson,Furniture,TV Stand,5,247.13,1235.65
+Fn38,07-08-2024,Jessica Armstrong,Furniture,Dining Table,8,334.73,2677.84
+Fn39,08-11-2024,Richard Nelson,Furniture,Wardrobe,1,86.72,86.72
+Fn40,29-03-2025,James Mcbride,Furniture,Sofa,5,861.36,4306.8
+Fn41,29-09-2024,Brittany Brown,Furniture,Recliner,3,788.23,2364.69
+Fn42,22-02-2025,Trevor Rodriguez,Furniture,Coffee Table,5,901.45,4507.25
+Fn43,28-06-2024,Ashley Coleman,Furniture,Desk,5,725.1,3625.5
+Fn44,31-08-2024,Wendy Cabrera,Furniture,Bookshelf,7,408.92,2862.44
+Fn45,11-12-2024,David Key,Furniture,Bed Frame,6,122.79,736.74
+Fn46,30-10-2024,Robert Morgan,Furniture,Bookshelf,4,460.46,1841.84
+Fn47,23-10-2024,Cassandra Watson,Furniture,Recliner,1,448.08,448.08
+Fn48,13-07-2024,Shannon Todd,Furniture,Sofa,9,810.49,7294.41
+Fn49,11-05-2024,Kevin Glass,Furniture,TV Stand,4,896.97,3587.88
+Fn50,06-01-2025,Paul Ray,Furniture,Bookshelf,10,371.45,3714.5
+Fn51,26-02-2025,Phyllis Taylor,Furniture,Coffee Table,8,639.86,5118.88
+Fn52,04-08-2024,David Rose,Furniture,Bookshelf,2,718.59,1437.18
+Fn53,25-11-2024,Matthew Banks,Furniture,Bookshelf,5,55.32,276.6
+Fn54,07-07-2024,Thomas Arnold,Furniture,Bookshelf,9,180.76,1626.84
+Fn55,15-03-2025,Courtney Sanford,Furniture,Wardrobe,4,450.3,1801.2
+Fn56,18-09-2024,Joseph Garcia,Furniture,Dining Table,5,807.23,4036.15
+Fn57,24-07-2024,Cassandra Williams,Furniture,Sofa,1,890.15,890.15
+Fn58,16-09-2024,Gwendolyn Lopez,Furniture,TV Stand,3,67.41,202.23
+Fn59,25-09-2024,Kenneth Owens,Furniture,Bed Frame,1,919.63,919.63
+Fn60,24-03-2025,Rodney Sanchez,Furniture,Sofa,8,823.74,6589.92
+Fn61,06-08-2024,Heather Smith,Furniture,Bed Frame,8,275.41,2203.28
+Fn62,29-03-2025,Vincent Williams,Furniture,Sofa,1,472.35,472.35
+Fn63,07-05-2024,Brandon Aguirre,Furniture,TV Stand,2,768.32,1536.64
+Fn64,02-11-2024,Jonathan Berry,Furniture,Office Chair,4,322.96,1291.84
+Fn65,16-02-2025,Michelle Briggs,Furniture,Desk,8,135.41,1083.28
+Fn66,31-03-2025,George Walters,Furniture,Sofa,9,735.09,6615.81
+Fn67,03-12-2024,Adam Woods,Furniture,TV Stand,2,987.73,1975.46
+Fn68,01-05-2024,Mckenzie Meyers,Furniture,Desk,9,533.31,4799.79
+Fn69,15-02-2025,Tara Mendoza,Furniture,Bed Frame,9,890.21,8011.89
+Fn70,04-08-2024,Rachel Miller,Furniture,Sofa,1,780.93,780.93
+Fn71,03-09-2024,Mallory Arnold,Furniture,Dining Table,3,116.03,348.09
+Fn72,15-03-2025,Erik Ayala,Furniture,Bookshelf,5,352.96,1764.8
+Fn73,08-06-2024,Erin Allen,Furniture,Coffee Table,7,888.41,6218.87
+Fn74,27-07-2024,Erin Silva,Furniture,Recliner,10,133.11,1331.1
+Fn75,24-06-2024,Morgan Mendoza,Furniture,Sofa,6,368.15,2208.9
+Fn76,15-09-2024,James Simpson,Furniture,Coffee Table,8,719.01,5752.08
+Fn77,13-06-2024,Joshua Marsh,Furniture,Bed Frame,8,759.25,6074
+Fn78,07-07-2024,Alexandra Anthony,Furniture,Desk,10,503.55,5035.5
+Fn79,22-01-2025,Greg Fowler,Furniture,Desk,9,543.21,4888.89
+Fn80,12-05-2024,Sarah Acevedo,Furniture,Sofa,6,877.13,5262.78
+Fn81,29-07-2024,Kenneth Myers,Furniture,TV Stand,7,456.4,3194.8
+Fn82,06-07-2024,Daniel Robinson,Furniture,Dining Table,2,738.75,1477.5
+Fn83,26-12-2024,Lauren Blackwell,Furniture,Office Chair,5,561.1,2805.5
+Fn84,25-07-2024,Jennifer Wade MD,Furniture,Coffee Table,2,272.73,545.46
+Fn85,09-10-2024,Devon Parker,Furniture,Bookshelf,7,598.89,4192.23
+Fn86,07-07-2024,Sydney Parker,Furniture,Recliner,6,809.37,4856.22
+Fn87,10-08-2024,James Brown,Furniture,Desk,7,174.49,1221.43
+Fn88,14-10-2024,Jim Nunez,Furniture,Dining Table,8,630.31,5042.48
+Fn89,26-08-2024,Diana Martinez,Furniture,Desk,1,78.57,78.57
+Fn90,01-11-2024,Tanya Poole,Furniture,Recliner,5,578.81,2894.05
+Fn91,15-03-2025,Elizabeth Dennis,Furniture,Bed Frame,6,543.58,3261.48
+Fn92,16-04-2025,Caleb Lewis,Furniture,TV Stand,7,676.76,4737.32
+Fn93,22-07-2024,Lynn Conner,Furniture,Bed Frame,5,286.77,1433.85
+Fn94,18-04-2025,Kendra Oneill,Furniture,TV Stand,3,508.71,1526.13
+Fn95,05-05-2024,Scott Smith,Furniture,Bed Frame,8,107.49,859.92
+Fn96,30-04-2024,Miss Alicia Rivas PhD,Furniture,Bookshelf,5,936.51,4682.55
+Fn97,23-07-2024,Anthony Martin,Furniture,Recliner,3,725.25,2175.75
+Fn98,27-02-2025,Heather Phillips,Furniture,Bed Frame,2,454.65,909.3
+Fn99,27-03-2025,Wyatt Moreno,Furniture,Bed Frame,2,417.02,834.04
+Fn100,04-07-2024,Mr. Kevin Davis,Furniture,Sofa,5,486.61,2433.05
+Fn101,09-10-2024,Haley Mitchell,Furniture,Bed Frame,4,787.42,3149.68
+Fn102,09-12-2024,Cheryl Bean,Furniture,Wardrobe,2,659.24,1318.48
+Fn103,11-09-2024,Dana Burch,Furniture,Sofa,5,908.96,4544.8
+Fn104,16-02-2025,Christopher Ford,Furniture,Sofa,2,508.88,1017.76
+Fn105,04-05-2024,Katelyn Norris,Furniture,Recliner,6,371.75,2230.5
+Fn106,02-08-2024,Mindy Martinez,Furniture,Sofa,7,148.21,1037.47
+Fn107,31-08-2024,John Glass,Furniture,Bed Frame,3,202.79,608.37
+Fn108,21-09-2024,Gabriel Anderson,Furniture,Bookshelf,8,728.25,5826
+Fn109,09-11-2024,Amber Horn,Furniture,Dining Table,9,993.36,8940.24
+Fn110,26-07-2024,John Ramirez,Furniture,Desk,8,393.16,3145.28
+Fn111,14-06-2024,Brenda Smith,Furniture,Sofa,4,539,2156
+Fn112,01-11-2024,Amanda Strickland,Furniture,Desk,1,789.79,789.79
+Fn113,22-12-2024,Paul Gonzales,Furniture,Dining Table,1,646.92,646.92
+Fn114,29-05-2024,Michael Case,Furniture,Office Chair,3,147.35,442.05
+Fn115,10-03-2025,Pamela Farmer,Furniture,Bookshelf,9,683.64,6152.76
+Fn116,25-07-2024,Steve Thompson,Furniture,Coffee Table,10,879.63,8796.3
+Fn117,02-03-2025,Jennifer Garcia,Furniture,Bookshelf,9,977.95,8801.55
+Fn118,01-06-2024,David Pope,Furniture,Coffee Table,4,119.91,479.64
+Fn119,10-04-2025,Kenneth Ramos,Furniture,Wardrobe,3,539.91,1619.73
+Fn120,25-05-2024,William Henderson Jr.,Furniture,TV Stand,10,666.14,6661.4
+Fn121,22-11-2024,Sarah Mcfarland,Furniture,Bookshelf,7,215.11,1505.77
+Fn122,23-05-2024,Richard Watkins III,Furniture,Recliner,5,591.08,2955.4
+Fn123,12-03-2025,Megan Moore,Furniture,Sofa,1,301.66,301.66
+Fn124,17-01-2025,Kelly Clark,Furniture,Bookshelf,10,338.38,3383.8
+Fn125,07-10-2024,Nathaniel Richardson,Furniture,Bed Frame,1,942.97,942.97
+Fn126,02-12-2024,Robert Ramos,Furniture,Office Chair,10,880.32,8803.2
+Fn127,05-07-2024,Teresa Bridges,Furniture,Wardrobe,3,303.94,911.82
+Fn128,20-06-2024,Kimberly Boyer,Furniture,Wardrobe,1,292.47,292.47
+Fn129,30-01-2025,Jennifer Washington,Furniture,Bed Frame,4,149.71,598.84
+Fn130,19-10-2024,Joe Larsen,Furniture,Bookshelf,6,522.03,3132.18
+Fn131,18-03-2025,Nathan Griffith,Furniture,Coffee Table,2,106.59,213.18
+Fn132,09-11-2024,Peter Cruz,Furniture,Bookshelf,3,799.12,2397.36
+Fn133,04-05-2024,Maria Douglas,Furniture,Coffee Table,9,404.99,3644.91
+Fn134,16-11-2024,James Pope,Furniture,Wardrobe,3,93.53,280.59
+Fn135,20-07-2024,Connie Henry,Furniture,Coffee Table,2,819.11,1638.22
+Fn136,21-03-2025,April Lee,Furniture,Desk,7,351.31,2459.17
+Fn137,15-06-2024,Harry Thomas,Furniture,Bookshelf,5,80.42,402.1
+Fn138,31-01-2025,Melissa Smith,Furniture,Office Chair,10,704.91,7049.1
+Fn139,19-05-2024,William Skinner,Furniture,Office Chair,3,924.33,2772.99
+Fn140,16-09-2024,Lauren Gallagher,Furniture,Wardrobe,8,365.17,2921.36
+Fn141,03-01-2025,Amy Lyons,Furniture,Wardrobe,2,96.22,192.44
+Fn142,27-01-2025,Dakota Haynes,Furniture,Recliner,3,993.88,2981.64
+Fn143,14-03-2025,Corey Lopez,Furniture,Office Chair,9,772.14,6949.26
+Fn144,26-08-2024,Monica Khan,Furniture,Dining Table,7,904.53,6331.71
+Fn145,27-08-2024,Brittany Osborne,Furniture,Desk,3,301.34,904.02
+Fn146,07-04-2025,Lynn Perkins,Furniture,Sofa,10,359.38,3593.8
+Fn147,28-07-2024,Brandy Heath,Furniture,Bookshelf,5,431.29,2156.45
+Fn148,10-03-2025,Kristen Douglas,Furniture,Bed Frame,9,668.24,6014.16
+Fn149,17-12-2024,Brittany Andrade,Furniture,Coffee Table,2,366.34,732.68
+Fn150,08-06-2024,Kenneth Hughes,Furniture,Bed Frame,2,830.47,1660.94
+Fn151,13-11-2024,Gregory Clarke,Furniture,TV Stand,2,546.9,1093.8
+Fn152,21-09-2024,Amber Chavez,Furniture,Bed Frame,8,486.48,3891.84
+Fn153,04-01-2025,Dawn Spence,Furniture,Office Chair,10,968.3,9683
+Fn154,14-09-2024,James Buckley,Furniture,Dining Table,1,173.86,173.86
+Fn155,26-06-2024,Aaron Santiago,Furniture,Sofa,3,572.52,1717.56
+Fn156,14-08-2024,Vincent Taylor,Furniture,Bookshelf,8,939.36,7514.88
+Fn157,24-01-2025,Michael Huang DVM,Furniture,TV Stand,6,839.65,5037.9
+Fn158,06-10-2024,Carol Faulkner,Furniture,Dining Table,2,717.54,1435.08
+Fn159,09-11-2024,James Lopez,Furniture,Sofa,10,162.63,1626.3
+Fn160,25-07-2024,Maria Allen,Furniture,Office Chair,2,242.32,484.64
+Fn161,25-09-2024,Robert Cook,Furniture,Office Chair,8,777.22,6217.76
+Fn162,08-07-2024,Amy Berg,Furniture,Desk,2,211.9,423.8
+Fn163,20-12-2024,David Warren,Furniture,Coffee Table,9,805.2,7246.8
+Fn164,02-02-2025,Anthony Snyder,Furniture,TV Stand,8,783.26,6266.08
+Fn165,11-09-2024,Michael Johnson,Furniture,Office Chair,4,83.2,332.8
+Fn166,06-01-2025,Andrew Fowler,Furniture,Desk,10,994.16,9941.6
+Fn167,14-06-2024,Elizabeth Gay,Furniture,Coffee Table,1,491.58,491.58
+Fn168,01-08-2024,Carrie Hendricks,Furniture,Dining Table,6,682.47,4094.82
+Fn169,20-04-2025,Nicole Bowers,Furniture,Dining Table,6,691.61,4149.66
+Fn170,13-04-2025,Rebecca Taylor,Furniture,Wardrobe,6,320.54,1923.24
+Fn171,10-05-2024,Daniel Underwood,Furniture,TV Stand,10,985.42,9854.2
+Fn172,08-11-2024,Melissa Sanchez,Furniture,Wardrobe,2,749.28,1498.56
+Fn173,06-02-2025,Hailey Vaughan,Furniture,Wardrobe,7,602.31,4216.17
+Fn174,11-02-2025,Jessica Stephenson,Furniture,Bed Frame,8,561.76,4494.08
+Fn175,15-12-2024,Barbara Mcmahon,Furniture,TV Stand,1,620.82,620.82
+Fn176,05-07-2024,Keith Hill,Furniture,Bookshelf,7,378.62,2650.34
+Fn177,29-06-2024,Nicole White,Furniture,Sofa,6,866.51,5199.06
+Fn178,04-09-2024,Joel Ellis,Furniture,Sofa,7,658.11,4606.77
+Fn179,24-10-2024,Miranda Kelly,Furniture,Bed Frame,1,138.74,138.74
+Fn180,24-03-2025,Lucas Flores,Furniture,Sofa,9,467.35,4206.15
+Fn181,09-12-2024,Anita Miller,Furniture,Wardrobe,10,861.5,8615
+Fn182,08-08-2024,Karl Dickson,Furniture,Dining Table,9,598,5382
+Fn183,25-01-2025,James Powell,Furniture,Desk,1,52.33,52.33
+Fn184,03-02-2025,Dalton Carson,Furniture,TV Stand,3,123.6,370.8
+Fn185,16-10-2024,Peter Payne,Furniture,Desk,6,751.65,4509.9
+Fn186,09-10-2024,Kristen Santiago,Furniture,Sofa,4,637.66,2550.64
+Fn187,13-08-2024,Jason Johnson,Furniture,Coffee Table,3,625.41,1876.23
+Fn188,25-07-2024,Sean Johnson,Furniture,TV Stand,3,325.37,976.11
+Fn189,08-07-2024,Dr. Oscar Wilson,Furniture,Bed Frame,6,621.34,3728.04
+Fn190,07-05-2024,Thomas Hamilton,Furniture,Dining Table,2,980.91,1961.82
+Fn191,29-08-2024,Thomas Delgado,Furniture,TV Stand,2,995.31,1990.62
+Fn192,03-11-2024,Whitney Bishop,Furniture,Desk,9,705.59,6350.31
+Fn193,29-06-2024,Albert Knight,Furniture,Dining Table,10,788.38,7883.8
+Fn194,19-04-2025,Victoria Steele,Furniture,Office Chair,7,731.84,5122.88
+Fn195,21-05-2024,Matthew Zimmerman,Furniture,Office Chair,10,680.27,6802.7
+Fn196,25-07-2024,Rebecca Harrington,Furniture,Recliner,8,879.54,7036.32
+Fn197,31-10-2024,Valerie Arellano,Furniture,Recliner,2,66.46,132.92
+Fn198,26-09-2024,Peter Garcia,Furniture,Bookshelf,10,168.22,1682.2
+Fn199,20-03-2025,Jessica Garcia,Furniture,Desk,1,140.66,140.66
+Fn200,24-09-2024,Jerry Patterson,Furniture,Sofa,9,687.45,6187.05
+Fn201,12-10-2024,Lisa Morris,Furniture,Bed Frame,4,609.37,2437.48
+Fn202,12-03-2025,Deborah King,Furniture,TV Stand,3,259.42,778.26
+Fn203,21-12-2024,Kelly Stewart,Furniture,Bookshelf,4,605.07,2420.28
+Fn204,11-02-2025,Lauren Williams,Furniture,Dining Table,4,790.08,3160.32
+Fn205,04-08-2024,David Watts,Furniture,Bed Frame,4,628.85,2515.4
+Fn206,19-04-2025,Todd Hester,Furniture,Office Chair,5,229.23,1146.15
+Fn207,31-01-2025,Tonya Parsons,Furniture,Coffee Table,8,737.31,5898.48
+Fn208,02-06-2024,Tina Garcia,Furniture,Bookshelf,2,798.43,1596.86
+Fn209,18-11-2024,Timothy Smith,Furniture,Office Chair,8,676.87,5414.96
+Fn210,26-04-2024,Teresa Greene,Furniture,Wardrobe,10,840.52,8405.2
+Fn211,15-11-2024,Kelly Contreras,Furniture,Sofa,3,886.28,2658.84
+Fn212,23-08-2024,Tracy Price,Furniture,Dining Table,10,952.81,9528.1
+Fn213,26-04-2024,Karen Burns,Furniture,Office Chair,2,876.23,1752.46
+Fn214,21-12-2024,Jeffrey Carroll,Furniture,Bookshelf,6,404.43,2426.58
+Fn215,24-11-2024,Thomas Foster,Furniture,Sofa,10,150.89,1508.9
+Fn216,26-05-2024,Timothy Salazar,Furniture,Coffee Table,3,215.26,645.78
+Fn217,09-08-2024,Mary Foster,Furniture,Desk,2,612.36,1224.72
+Fn218,19-01-2025,Robert Price,Furniture,Office Chair,7,775.94,5431.58
+Fn219,24-10-2024,Madeline Peters,Furniture,Wardrobe,10,946.77,9467.7
+Fn220,20-07-2024,Jacqueline Martinez,Furniture,Recliner,9,927.25,8345.25
+Fn221,16-04-2025,Gregory Vasquez,Furniture,Bed Frame,2,970.9,1941.8
+Fn222,17-12-2024,Jeffrey Mccarthy,Furniture,TV Stand,5,141.01,705.05
+Fn223,05-04-2025,Garrett Ayala,Furniture,Bed Frame,8,585.99,4687.92
+Fn224,08-01-2025,Cynthia Herrera,Furniture,Desk,7,230.08,1610.56
+Fn225,08-06-2024,Joe Castro,Furniture,Desk,3,841.04,2523.12
+Fn226,26-11-2024,Shaun Duran,Furniture,Desk,1,308.02,308.02
+Fn227,11-04-2025,Shelly Brown,Furniture,Office Chair,5,519.4,2597
+Fn228,02-07-2024,Stephen Hardy,Furniture,Desk,9,917.22,8254.98
+Fn229,02-04-2025,Melissa Kim,Furniture,Coffee Table,2,201.69,403.38
+Fn230,16-10-2024,Lee Grant,Furniture,Coffee Table,3,190.78,572.34
+Fn231,21-08-2024,Cheryl Neal,Furniture,Sofa,5,515.74,2578.7
+Fn232,29-09-2024,Tina Williams,Furniture,Bookshelf,4,781.22,3124.88
+Fn233,25-04-2024,Joann Wright,Furniture,Recliner,7,567.11,3969.77
+Fn234,04-02-2025,Audrey Short,Furniture,Dining Table,7,511.78,3582.46
+Fn235,18-07-2024,Thomas Johnson,Furniture,Sofa,8,723.93,5791.44
+Fn236,06-07-2024,Monica Green,Furniture,Office Chair,10,436.99,4369.9
+Fn237,25-02-2025,Brittany Solomon,Furniture,Coffee Table,3,712.59,2137.77
+Fn238,22-06-2024,Adrian Stone,Furniture,Wardrobe,6,465.04,2790.24
+Fn239,18-03-2025,Matthew Edwards,Furniture,Coffee Table,2,220.59,441.18
+Fn240,09-03-2025,Valerie Wright,Furniture,Bookshelf,7,440.82,3085.74
+Fn241,08-01-2025,Carolyn Gray,Furniture,Coffee Table,1,429.2,429.2
+Fn242,12-03-2025,Melanie Gray,Furniture,Dining Table,7,244.46,1711.22
+Fn243,03-12-2024,Emily Hernandez,Furniture,Bookshelf,4,231.12,924.48
+Fn244,20-11-2024,Ashley Nelson,Furniture,Desk,2,272.49,544.98
+Fn245,27-12-2024,Alicia Clark,Furniture,Recliner,9,971.67,8745.03
+Fn246,25-12-2024,Daniel Fields,Furniture,TV Stand,2,418.98,837.96
+Fn247,01-05-2024,Brian Madden,Furniture,Desk,8,476.94,3815.52
+Fn248,28-08-2024,Ronald Galloway,Furniture,Bed Frame,10,926.95,9269.5
+Fn249,19-09-2024,Dana Ortiz,Furniture,Office Chair,7,554.49,3881.43
+Fn250,13-05-2024,Eric Koch,Furniture,TV Stand,3,451.52,1354.56
+Fn251,06-12-2024,Jennifer Carlson,Furniture,Desk,4,665.16,2660.64
+Fn252,14-11-2024,Russell Bailey,Furniture,TV Stand,4,485.11,1940.44
+Fn253,20-07-2024,Kimberly Meadows,Furniture,Bookshelf,1,653.38,653.38
+Fn254,09-08-2024,Andrew Barr,Furniture,Desk,5,758.57,3792.85
+Fn255,13-05-2024,Bradley Heath,Furniture,Bed Frame,9,401.12,3610.08
+Fn256,02-12-2024,Blake Hurley,Furniture,Wardrobe,10,631.2,6312
+Fn257,01-06-2024,Amy Williams,Furniture,Coffee Table,3,530.56,1591.68
+Fn258,03-11-2024,Kimberly Cooper,Furniture,Office Chair,3,336.22,1008.66
+Fn259,11-04-2025,Joel Thomas,Furniture,Desk,10,474.69,4746.9
+Fn260,29-08-2024,Keith Williams,Furniture,TV Stand,3,922.6,2767.8
+Fn261,04-05-2024,Vanessa Gentry,Furniture,TV Stand,1,831.65,831.65
+Fn262,04-11-2024,Stephanie Wallace,Furniture,Recliner,3,76.15,228.45
+Fn263,18-03-2025,Marvin Marshall,Furniture,Bookshelf,5,375.79,1878.95
+Fn264,01-05-2024,Mark Bennett,Furniture,Wardrobe,7,878.79,6151.53
+Fn265,06-03-2025,Amanda Allen,Furniture,Dining Table,10,869.27,8692.7
+Fn266,01-02-2025,James Myers,Furniture,Wardrobe,3,881.54,2644.62
+Fn267,03-01-2025,Russell Guerrero,Furniture,Wardrobe,4,95.35,381.4
+Fn268,26-04-2024,Isabella Jones,Furniture,Bookshelf,5,206.46,1032.3
+Fn269,01-12-2024,Kara Gomez,Furniture,Coffee Table,6,569.66,3417.96
+Fn270,26-05-2024,Steven Ramos,Furniture,Recliner,10,632.81,6328.1
+Fn271,17-03-2025,Sharon Rubio,Furniture,Recliner,9,557.67,5019.03
+Fn272,15-12-2024,Lindsey Joyce,Furniture,Recliner,8,671.17,5369.36
+Fn273,06-03-2025,Rebecca Smith,Furniture,Sofa,3,868.05,2604.15
+Fn274,15-11-2024,Jessica Mclaughlin,Furniture,Bookshelf,3,215.41,646.23
+Fn275,19-11-2024,Amy Mack,Furniture,Coffee Table,9,208.23,1874.07
+Fn276,11-10-2024,Samantha Sutton,Furniture,Bookshelf,3,559.37,1678.11
+Fn277,06-10-2024,Robin Torres,Furniture,Bed Frame,5,634.25,3171.25
+Fn278,12-08-2024,Mark Ellis,Furniture,Desk,2,514.63,1029.26
+Fn279,19-12-2024,Kenneth Jones,Furniture,Desk,1,145.96,145.96
+Fn280,27-06-2024,Krista Hamilton,Furniture,TV Stand,5,52.37,261.85
+Fn281,09-04-2025,Lindsey Peterson,Furniture,Wardrobe,3,272.71,818.13
+Fn282,02-03-2025,Jennifer Brooks,Furniture,Wardrobe,8,238.6,1908.8
+Fn283,13-09-2024,Kevin Greene,Furniture,Office Chair,5,193.32,966.6
+Fn284,10-07-2024,Yolanda Kirk,Furniture,Bed Frame,2,753.17,1506.34
+Fn285,15-12-2024,Francisco Peterson,Furniture,Bed Frame,10,366.81,3668.1
+Fn286,18-07-2024,Kayla Chapman,Furniture,Office Chair,10,766.17,7661.7
+Fn287,18-10-2024,Jason Thompson,Furniture,TV Stand,2,73.86,147.72
+Fn288,10-03-2025,Jacqueline Williams,Furniture,Office Chair,7,532.9,3730.3
+Fn289,06-06-2024,Rebecca Ruiz,Furniture,TV Stand,6,994.14,5964.84
+Fn290,03-11-2024,Mary Vance,Furniture,Recliner,4,434.39,1737.56
+Fn291,01-04-2025,Eric Ayala,Furniture,Dining Table,6,275.63,1653.78
+Fn292,03-01-2025,Leslie Hart,Furniture,Dining Table,4,737.17,2948.68
+Fn293,21-01-2025,Alicia Mckinney,Furniture,Bookshelf,4,80.53,322.12
+Fn294,03-12-2024,Michael Evans,Furniture,Sofa,2,798.04,1596.08
+Fn295,14-11-2024,Michael Velez,Furniture,Sofa,6,514.96,3089.76
+Fn296,14-12-2024,Phillip Olson,Furniture,Dining Table,9,552.36,4971.24
+Fn297,18-01-2025,Jennifer Barton,Furniture,Bookshelf,6,727.52,4365.12
+Fn298,24-01-2025,Daniel Gonzales,Furniture,Bookshelf,3,968.11,2904.33
+Fn299,23-08-2024,Tammy Hernandez,Furniture,Dining Table,6,731.41,4388.46
+Fn300,24-09-2024,Marcus Owen,Furniture,Recliner,8,694.52,5556.16
+Fn301,02-03-2025,Jody Gregory PhD,Furniture,Bookshelf,1,823.24,823.24
+Fn302,06-08-2024,Angela Walker,Furniture,Wardrobe,8,389.36,3114.88
+Fn303,02-09-2024,Patricia Taylor,Furniture,Wardrobe,3,115.61,346.83
+Fn304,06-07-2024,Charles Hobbs,Furniture,Desk,1,731.66,731.66
+Fn305,14-05-2024,Jessica Sanchez,Furniture,Sofa,10,849.95,8499.5
+Fn306,13-01-2025,Christina Chen,Furniture,Wardrobe,5,369.25,1846.25
+Fn307,17-01-2025,Jason Love,Furniture,Dining Table,7,288.19,2017.33
+Fn308,18-06-2024,Charles Norman,Furniture,TV Stand,6,788.69,4732.14
+Fn309,16-11-2024,Sharon Olsen,Furniture,Bed Frame,3,872.08,2616.24
+Fn310,17-11-2024,Sharon Ferguson,Furniture,TV Stand,7,292.4,2046.8
+Fn311,10-09-2024,Brett Henry,Furniture,Coffee Table,9,526.23,4736.07
+Fn312,29-05-2024,William Miles,Furniture,Dining Table,2,559.82,1119.64
+Fn313,23-09-2024,Alan Tanner,Furniture,Office Chair,2,440.17,880.34
+Fn314,13-02-2025,Victor Davis,Furniture,Bookshelf,1,892.62,892.62
+Fn315,22-01-2025,Jacqueline Stephens,Furniture,Sofa,7,776.7,5436.9
+Fn316,03-04-2025,Ronald Smith,Furniture,Bed Frame,9,246.81,2221.29
+Fn317,06-07-2024,Robert Baker,Furniture,Bed Frame,3,406.89,1220.67
+Fn318,03-06-2024,Kevin Hendricks,Furniture,Bookshelf,6,729.6,4377.6
+Fn319,23-10-2024,Tyler Anderson,Furniture,Recliner,1,892.84,892.84
+Fn320,16-05-2024,Louis Salazar,Furniture,Dining Table,8,710.4,5683.2
+Fn321,06-05-2024,Cheryl Howell,Furniture,TV Stand,4,106.76,427.04
+Fn322,29-12-2024,Ryan Meyer,Furniture,Coffee Table,1,586.22,586.22
+Fn323,14-07-2024,Scott Reynolds,Furniture,Bed Frame,3,356.35,1069.05
+Fn324,27-12-2024,Katherine Simmons,Furniture,TV Stand,7,89.1,623.7
+Fn325,10-03-2025,William Brooks,Furniture,TV Stand,2,429.98,859.96
+Fn326,19-03-2025,Caitlin Hicks,Furniture,Dining Table,4,154.06,616.24
+Fn327,28-09-2024,Heather Benson,Furniture,Dining Table,8,918.75,7350
+Fn328,02-09-2024,Susan Haynes,Furniture,Bed Frame,2,805.44,1610.88
+Fn329,15-03-2025,Samantha Holt,Furniture,Bookshelf,10,770.34,7703.4
+Fn330,27-11-2024,Teresa Gallagher,Furniture,Wardrobe,2,366.32,732.64
+Fn331,09-09-2024,Mr. Steven Price Jr.,Furniture,Recliner,9,570.11,5130.99
+Fn332,09-02-2025,Anita Alexander,Furniture,Coffee Table,3,399.53,1198.59
+Fn333,22-10-2024,Robert Hamilton,Furniture,Coffee Table,8,462.38,3699.04
+Fn334,31-07-2024,David Wilson,Furniture,Sofa,3,815.54,2446.62
+Fn335,07-12-2024,Marcus Williams,Furniture,TV Stand,7,54.07,378.49
+Fn336,29-11-2024,Jose Jones,Furniture,Office Chair,4,507.25,2029
+Fn337,10-09-2024,Deborah Lee,Furniture,Desk,4,443.3,1773.2
+Fn338,29-05-2024,Edward Robbins,Furniture,Sofa,5,199.5,997.5
+Fn339,02-05-2024,Sharon Carter,Furniture,Recliner,1,104.27,104.27
+Fn340,11-12-2024,Sean Gardner,Furniture,Office Chair,8,334.84,2678.72
+Fn341,15-06-2024,Terry Pham,Furniture,Wardrobe,9,68.78,619.02
+Fn342,22-09-2024,Samantha Jenkins,Furniture,Bookshelf,7,846.7,5926.9
+Fn343,02-12-2024,Brian Alexander,Furniture,Office Chair,4,520.86,2083.44
+Fn344,14-06-2024,Mrs. Alyssa Anderson MD,Furniture,TV Stand,2,483.57,967.14
+Fn345,18-12-2024,Daniel Dean,Furniture,Coffee Table,10,283.54,2835.4
+Fn346,02-04-2025,Kimberly Gonzalez,Furniture,TV Stand,7,927.36,6491.52
+Fn347,19-08-2024,Kristin Owen,Furniture,Office Chair,3,749.15,2247.45
+Fn348,29-10-2024,Tina Potts,Furniture,Sofa,8,117.78,942.24
+Fn349,17-03-2025,Juan Curry,Furniture,Bed Frame,1,508.7,508.7
+Fn350,29-10-2024,Christie Daniels,Furniture,Sofa,7,201.09,1407.63
+Fn351,02-12-2024,Matthew Reynolds,Furniture,Wardrobe,1,380.83,380.83
+Fn352,06-06-2024,Krystal Griffin,Furniture,Desk,3,648.46,1945.38
+Fn353,11-11-2024,Todd Boone Jr.,Furniture,Wardrobe,2,372.73,745.46
+Fn354,08-10-2024,Matthew Jarvis,Furniture,Office Chair,4,200.68,802.72
+Fn355,24-06-2024,Joanne Ross,Furniture,Coffee Table,3,106.73,320.19
+Fn356,23-04-2025,Donald Roberts,Furniture,Bed Frame,1,274.7,274.7
+Fn357,31-12-2024,Veronica Green MD,Furniture,Recliner,3,88.65,265.95
+Fn358,05-10-2024,Susan Anderson,Furniture,Sofa,1,572.49,572.49
+Fn359,30-04-2024,Jeremy Salas,Furniture,Office Chair,8,960.55,7684.4
+Fn360,28-02-2025,Michael Andrews,Furniture,Wardrobe,6,53.95,323.7
+Fn361,26-11-2024,Billy Frederick,Furniture,Bookshelf,9,471.77,4245.93
+Fn362,03-02-2025,Joshua White,Furniture,Dining Table,6,443.82,2662.92
+Fn363,14-06-2024,Jennifer Jones,Furniture,Desk,8,139.02,1112.16
+Fn364,05-02-2025,Daniel Campbell,Furniture,Bed Frame,2,745.81,1491.62
+Fn365,28-11-2024,Angie Ross,Furniture,Sofa,9,549.99,4949.91
+Fn366,08-07-2024,Melanie Lopez,Furniture,Office Chair,3,159.63,478.89
+Fn367,11-04-2025,Melissa Allen,Furniture,Bed Frame,10,126.18,1261.8
+Fn368,06-06-2024,Rachel Schmidt,Furniture,Bed Frame,4,75.44,301.76
+Fn369,15-07-2024,Louis Potter,Furniture,Wardrobe,5,715.76,3578.8
+Fn370,05-09-2024,Ryan Wood,Furniture,Dining Table,7,115.43,808.01
+Fn371,17-02-2025,Ryan Dillon,Furniture,TV Stand,9,179.06,1611.54
+Fn372,08-03-2025,Kathy Schwartz,Furniture,Coffee Table,4,268.5,1074
+Fn373,10-08-2024,Brian Chapman,Furniture,Wardrobe,9,461.49,4153.41
+Fn374,10-07-2024,Martha Ford,Furniture,Bookshelf,1,265.2,265.2
+Fn375,26-07-2024,Mark Wong,Furniture,Wardrobe,7,382.01,2674.07
+Fn376,25-02-2025,Hunter Johnson,Furniture,Bed Frame,5,297.26,1486.3
+Fn377,13-05-2024,Joe Johnson,Furniture,Dining Table,6,395.86,2375.16
+Fn378,27-04-2024,Elizabeth Jackson,Furniture,Sofa,8,810.69,6485.52
+Fn379,30-10-2024,John Curtis,Furniture,Sofa,6,127.82,766.92
+Fn380,11-04-2025,Scott Bautista,Furniture,Bed Frame,6,554.01,3324.06
+Fn381,02-03-2025,Corey Hampton,Furniture,Sofa,5,867.4,4337
+Fn382,18-11-2024,James Patterson,Furniture,Bookshelf,4,966.1,3864.4
+Fn383,13-12-2024,Christine Murray,Furniture,Office Chair,2,50.1,100.2
+Fn384,18-03-2025,Erik Richards,Furniture,Office Chair,3,126.11,378.33
+Fn385,04-06-2024,Cheryl Simmons,Furniture,Office Chair,6,333.3,1999.8
+Fn386,27-01-2025,Katherine Robinson,Furniture,Coffee Table,9,600.99,5408.91
+Fn387,17-12-2024,Jeremy Taylor,Furniture,Bookshelf,2,80.3,160.6
+Fn388,07-12-2024,Francisco Martinez,Furniture,Bed Frame,1,549.2,549.2
+Fn389,06-04-2025,Dr. Christopher Williams,Furniture,Sofa,7,707.91,4955.37
+Fn390,25-07-2024,Erica Ingram,Furniture,Bed Frame,7,186.92,1308.44
+Fn391,09-01-2025,Chad Hill,Furniture,Wardrobe,6,964.57,5787.42
+Fn392,02-06-2024,Michael Mathews,Furniture,Bookshelf,1,827.55,827.55
+Fn393,25-01-2025,Laura Carter,Furniture,Dining Table,1,720.91,720.91
+Fn394,03-09-2024,Alejandra Kelley,Furniture,TV Stand,8,811.68,6493.44
+Fn395,22-03-2025,Kelsey Mitchell,Furniture,Sofa,10,705.31,7053.1
+Fn396,15-05-2024,Jennifer Rangel,Furniture,Coffee Table,8,289.74,2317.92
+Fn397,30-09-2024,Bridget Stevenson,Furniture,Coffee Table,9,986.42,8877.78
+Fn398,26-12-2024,Brooke Hunter,Furniture,Bed Frame,5,162.61,813.05
+Fn399,19-04-2025,Billy Davis,Furniture,Office Chair,1,948.96,948.96
+Fn400,28-04-2024,Yvette Brown,Furniture,Desk,6,156.33,937.98
+Fn401,25-11-2024,Diamond Carter,Furniture,Office Chair,4,988.07,3952.28
+Fn402,16-09-2024,Charles Perry,Furniture,TV Stand,5,448.56,2242.8
+Fn403,12-04-2025,Felicia Bell,Furniture,Sofa,6,293.64,1761.84
+Fn404,07-05-2024,Leslie Whitaker,Furniture,Office Chair,6,923.1,5538.6
+Fn405,03-01-2025,Andrew Black,Furniture,Wardrobe,4,168.59,674.36
+Fn406,18-02-2025,Matthew Stewart,Furniture,Sofa,5,83.35,416.75
+Fn407,09-09-2024,Melanie Smith,Furniture,Coffee Table,7,138.52,969.64
+Fn408,15-03-2025,Michael Middleton,Furniture,Recliner,7,877.89,6145.23
+Fn409,17-09-2024,Jeffrey Nelson,Furniture,Desk,8,431.98,3455.84
+Fn410,31-08-2024,Cassandra Bell,Furniture,Bed Frame,9,524,4716
+Fn411,12-06-2024,Michelle Fernandez,Furniture,Bookshelf,4,122.41,489.64
+Fn412,02-03-2025,Luis Grimes,Furniture,TV Stand,7,65.89,461.23
+Fn413,11-01-2025,Dr. Rachel Evans,Furniture,TV Stand,10,643.33,6433.3
+Fn414,01-11-2024,Kristen Sanchez,Furniture,Coffee Table,10,473.59,4735.9
+Fn415,27-09-2024,Michael Barrett,Furniture,Coffee Table,7,787.56,5512.92
+Fn416,09-02-2025,Yolanda Arnold,Furniture,Bed Frame,9,104.14,937.26
+Fn417,03-12-2024,Nancy Jordan,Furniture,Bed Frame,2,177.62,355.24
+Fn418,03-07-2024,Matthew Hernandez,Furniture,Recliner,1,772.76,772.76
+Fn419,12-02-2025,Sarah Dunn,Furniture,Sofa,7,905.26,6336.82
+Fn420,30-04-2024,Julie Holt,Furniture,Wardrobe,4,169.6,678.4
+Fn421,22-07-2024,Katherine Evans,Furniture,Recliner,9,961.03,8649.27
+Fn422,18-04-2025,Jennifer Johnson,Furniture,Desk,1,603.08,603.08
+Fn423,20-11-2024,Nichole Ellis,Furniture,Office Chair,2,363.02,726.04
+Fn424,19-10-2024,Jennifer Lopez,Furniture,Dining Table,9,724.35,6519.15
+Fn425,28-08-2024,Jamie Ramos,Furniture,Desk,5,295.05,1475.25
+Fn426,23-07-2024,Shane Ware,Furniture,Bed Frame,1,78.97,78.97
+Fn427,05-07-2024,Autumn Gould,Furniture,Sofa,10,653.81,6538.1
+Fn428,17-02-2025,Sarah Hughes,Furniture,Recliner,3,199.72,599.16
+Fn429,16-05-2024,Anthony Thomas,Furniture,Office Chair,6,258.05,1548.3
+Fn430,06-02-2025,April Gutierrez,Furniture,Office Chair,3,728.59,2185.77
+Fn431,18-03-2025,Tara Bautista,Furniture,Office Chair,6,193.73,1162.38
+Fn432,24-04-2025,Edward Stone,Furniture,TV Stand,8,155.45,1243.6
+Fn433,20-09-2024,Louis Arias,Furniture,Sofa,8,968.48,7747.84
+Fn434,28-08-2024,Joel Russell,Furniture,Sofa,8,548.74,4389.92
+Fn435,05-10-2024,Zachary Sullivan,Furniture,Wardrobe,1,638.4,638.4
+Fn436,18-12-2024,Amanda Perry,Furniture,Desk,10,418.55,4185.5
+Fn437,13-04-2025,Stephanie Austin,Furniture,Bed Frame,6,437.97,2627.82
+Fn438,29-09-2024,Kristen Walker,Furniture,Bookshelf,6,447.28,2683.68
+Fn439,13-06-2024,James Powell,Furniture,Bookshelf,8,136.82,1094.56
+Fn440,26-12-2024,Nicole Sandoval,Furniture,Coffee Table,7,177.15,1240.05
+Fn441,18-09-2024,Thomas Carson,Furniture,Dining Table,4,482.19,1928.76
+Fn442,28-02-2025,Abigail Wilson,Furniture,Desk,1,818.43,818.43
+Fn443,06-02-2025,Steven Ferguson,Furniture,Coffee Table,5,277.43,1387.15
+Fn444,21-09-2024,Michael Evans,Furniture,Desk,2,86.71,173.42
+Fn445,22-04-2025,Ruth Johnson,Furniture,TV Stand,7,858.78,6011.46
+Fn446,25-08-2024,Dalton Mahoney,Furniture,Wardrobe,8,320.54,2564.32
+Fn447,29-09-2024,Thomas Kim,Furniture,Sofa,3,223.36,670.08
+Fn448,07-10-2024,Kelli Dickson,Furniture,TV Stand,2,736.5,1473
+Fn449,14-06-2024,Lance Stanton,Furniture,Wardrobe,8,307.95,2463.6
+Fn450,02-04-2025,Deborah Campbell,Furniture,Office Chair,9,344.12,3097.08
+Fn451,11-09-2024,Joseph Harrison,Furniture,Dining Table,2,500.8,1001.6
+Fn452,14-02-2025,Carol Perez,Furniture,TV Stand,9,287.2,2584.8
+Fn453,14-02-2025,Brian Daniels,Furniture,Bed Frame,8,274.32,2194.56
+Fn454,05-06-2024,Stephanie Barr,Furniture,Desk,2,243.35,486.7
+Fn455,25-09-2024,James Clark,Furniture,Bed Frame,4,844.97,3379.88
+Fn456,11-07-2024,Yolanda Maxwell,Furniture,Office Chair,6,412.08,2472.48
+Fn457,04-07-2024,Mackenzie Robertson,Furniture,Office Chair,2,392.77,785.54
+Fn458,05-09-2024,Stephanie Williams,Furniture,Desk,5,183.32,916.6
+Fn459,01-03-2025,Alicia Mcclain,Furniture,Dining Table,6,681.2,4087.2
+Fn460,29-10-2024,Raymond Harris,Furniture,Recliner,5,733.73,3668.65
+Fn461,05-08-2024,Erica Mcdonald,Furniture,Recliner,2,801.4,1602.8
+Fn462,07-10-2024,Brandon Ramirez,Furniture,Sofa,9,692.68,6234.12
+Fn463,31-12-2024,Ashley Bruce,Furniture,Recliner,4,298.23,1192.92
+Fn464,03-05-2024,Bryce Robinson MD,Furniture,Coffee Table,6,312.42,1874.52
+Fn465,08-10-2024,Chris Torres,Furniture,Recliner,8,846.86,6774.88
+Fn466,25-04-2025,Victoria Jones,Furniture,Desk,3,611.62,1834.86
+Fn467,28-05-2024,Jacob Graham,Furniture,Bed Frame,9,737.84,6640.56
+Fn468,14-03-2025,Cody Bennett,Furniture,Desk,6,93.61,561.66
+Fn469,23-05-2024,Megan Bailey,Furniture,Office Chair,8,947.21,7577.68
+Fn470,02-01-2025,Jessica Greer,Furniture,Bookshelf,2,542.87,1085.74
+Fn471,31-07-2024,Melissa Carney,Furniture,Bed Frame,8,993.89,7951.12
+Fn472,17-12-2024,Amber Chang,Furniture,Coffee Table,5,502.65,2513.25
+Fn473,22-08-2024,Brandon Wright,Furniture,Sofa,1,733.89,733.89
+Fn474,27-07-2024,Robert Chung,Furniture,Office Chair,2,696.63,1393.26
+Fn475,31-10-2024,Adam Medina,Furniture,Bookshelf,4,930.85,3723.4
+Fn476,04-08-2024,Kenneth Scott,Furniture,TV Stand,5,52.91,264.55
+Fn477,21-04-2025,Daniel Smith,Furniture,Dining Table,8,259.01,2072.08
+Fn478,10-07-2024,James Terrell,Furniture,Wardrobe,6,776.41,4658.46
+Fn479,25-04-2024,Patrick Brown,Furniture,Bed Frame,6,834.37,5006.22
+Fn480,16-12-2024,Kathleen Mcbride,Furniture,Dining Table,1,768.79,768.79
+Fn481,20-07-2024,Alyssa Tucker,Furniture,Coffee Table,9,445.6,4010.4
+Fn482,14-01-2025,Christopher Parker,Furniture,Sofa,1,305.93,305.93
+Fn483,31-10-2024,Wendy Garcia,Furniture,Wardrobe,10,951.39,9513.9
+Fn484,21-04-2025,Patricia Murray,Furniture,TV Stand,3,528.76,1586.28
+Fn485,28-04-2024,Dr. Anna Mercer,Furniture,Bed Frame,1,583.66,583.66
+Fn486,21-02-2025,Timothy Moses,Furniture,Recliner,3,795.19,2385.57
+Fn487,02-02-2025,Pamela Boyer,Furniture,Sofa,6,567.99,3407.94
+Fn488,27-08-2024,Carlos Blevins PhD,Furniture,Desk,2,812.78,1625.56
+Fn489,27-01-2025,David Ortiz,Furniture,Bed Frame,10,121.06,1210.6
+Fn490,16-03-2025,Jennifer Neal,Furniture,Recliner,6,769.5,4617
+Fn491,07-01-2025,Anthony Olsen,Furniture,TV Stand,8,321.39,2571.12
+Fn492,03-03-2025,Dillon Trujillo,Furniture,Sofa,9,614.12,5527.08
+Fn493,14-06-2024,Lance Flores,Furniture,Bed Frame,4,616.8,2467.2
+Fn494,03-01-2025,William Ramos,Furniture,Bed Frame,3,835.26,2505.78
+Fn495,19-06-2024,Jenny Simpson,Furniture,Bookshelf,8,935.89,7487.12
+Fn496,12-10-2024,Timothy Clark,Furniture,Desk,4,748.09,2992.36
+Fn497,14-06-2024,John Summers,Furniture,Recliner,7,963.57,6744.99
+Fn498,28-07-2024,Stacey Nelson,Furniture,Desk,5,949.05,4745.25
+Fn499,16-02-2025,Jessica Jordan MD,Furniture,Desk,4,237.66,950.64
+Fn500,23-03-2025,Paul King,Furniture,TV Stand,3,844.07,2532.21
+Fn501,26-08-2024,Audrey Coleman,Furniture,Office Chair,7,812.36,5686.52
+Fn502,13-06-2024,John Moore,Furniture,Office Chair,8,478.06,3824.48
+Fn503,27-05-2024,Brian Lin,Furniture,Desk,7,96.92,678.44
+Fn504,14-08-2024,Amanda Rodriguez,Furniture,Wardrobe,2,735.14,1470.28
+Fn505,05-08-2024,Elizabeth Santos,Furniture,Recliner,9,171.03,1539.27
+Fn506,13-01-2025,Mr. Joseph Wright,Furniture,Dining Table,2,209.08,418.16
+Fn507,22-08-2024,Heather Barker,Furniture,Sofa,7,816.92,5718.44
+Fn508,27-10-2024,Amanda Bullock,Furniture,Recliner,9,538.23,4844.07
+Fn509,15-07-2024,Mr. Jonathan Brown,Furniture,Sofa,3,601.17,1803.51
+Fn510,23-02-2025,William Valdez,Furniture,Desk,3,756.02,2268.06
+Fn511,07-07-2024,Dale Murphy,Furniture,Coffee Table,3,664.39,1993.17
+Fn512,06-07-2024,Sonya Jenkins,Furniture,Bed Frame,6,279.09,1674.54
+Fn513,24-04-2025,Megan Tucker,Furniture,Coffee Table,9,546.76,4920.84
+Fn514,10-09-2024,Daniel Ferguson,Furniture,Bed Frame,2,456.6,913.2
+Fn515,23-08-2024,Chris Douglas,Furniture,TV Stand,1,138.2,138.2
+Fn516,16-11-2024,Stephen Huff,Furniture,TV Stand,4,728.34,2913.36
+Fn517,11-05-2024,Jack May MD,Furniture,TV Stand,6,478.99,2873.94
+Fn518,13-07-2024,Cynthia Robertson,Furniture,Wardrobe,7,208.49,1459.43
+Fn519,28-09-2024,Brandon Odom,Furniture,Bed Frame,2,668.67,1337.34
+Fn520,16-05-2024,Diamond Kelly,Furniture,TV Stand,4,165.94,663.76
+Fn521,15-05-2024,Michelle Christian,Furniture,Wardrobe,6,817.69,4906.14
+Fn522,09-06-2024,Dr. Michelle Gallegos PhD,Furniture,Desk,9,869.06,7821.54
+Fn523,09-12-2024,Debbie Johns,Furniture,Office Chair,6,295.52,1773.12
+Fn524,10-04-2025,Marco Cox,Furniture,Dining Table,2,359.34,718.68
+Fn525,08-06-2024,Peggy Greene,Furniture,Sofa,2,591.58,1183.16
+Fn526,22-01-2025,Christopher West,Furniture,Bed Frame,6,506.32,3037.92
+Fn527,13-01-2025,Kari Rodriguez,Furniture,TV Stand,9,767.33,6905.97
+Fn528,11-11-2024,Ernest Brown,Furniture,Sofa,2,359.38,718.76
+Fn529,29-04-2024,April Gibbs,Furniture,Sofa,5,256.41,1282.05
+Fn530,25-04-2025,Louis Watkins,Furniture,Desk,3,590.2,1770.6
+Fn531,01-09-2024,Ashley Clark,Furniture,TV Stand,8,770.78,6166.24
+Fn532,03-02-2025,Emma Johnson,Furniture,Wardrobe,5,689.85,3449.25
+Fn533,07-09-2024,Veronica Mosley,Furniture,Bookshelf,5,538.35,2691.75
+Fn534,11-01-2025,Kimberly Duarte,Furniture,Recliner,5,397.1,1985.5
+Fn535,24-06-2024,Natasha Osborn,Furniture,Dining Table,8,639.87,5118.96
+Fn536,08-07-2024,Wesley Smith,Furniture,Coffee Table,7,85.86,601.02
+Fn537,23-03-2025,Jason Schmidt,Furniture,Bed Frame,9,763.91,6875.19
+Fn538,13-11-2024,David Nichols,Furniture,Desk,4,87.39,349.56
+Fn539,15-11-2024,Beth Hernandez,Furniture,TV Stand,10,520.61,5206.1
+Fn540,04-02-2025,Mary Reynolds,Furniture,Coffee Table,8,945.92,7567.36
+Fn541,06-03-2025,Robert Gutierrez,Furniture,TV Stand,4,992.85,3971.4
+Fn542,01-04-2025,James Lee,Furniture,Wardrobe,6,836.65,5019.9
+Fn543,02-04-2025,Danielle Brewer,Furniture,Coffee Table,1,296.44,296.44
+Fn544,06-02-2025,John Fields,Furniture,Recliner,3,724.44,2173.32
+Fn545,13-04-2025,Audrey Martinez,Furniture,Wardrobe,3,642.55,1927.65
+Fn546,04-12-2024,Derek Garza,Furniture,Bed Frame,8,796.43,6371.44
+Fn547,07-04-2025,David Combs,Furniture,Recliner,1,220.11,220.11
+Fn548,24-03-2025,Teresa Moore,Furniture,Bookshelf,3,153.81,461.43
+Fn549,12-11-2024,Matthew Hoffman,Furniture,Wardrobe,9,713.41,6420.69
+Fn550,27-11-2024,Sarah Jimenez,Furniture,Wardrobe,5,787.95,3939.75
+Fn551,17-12-2024,Michael Sanchez,Furniture,Coffee Table,2,891.97,1783.94
+Fn552,26-02-2025,Kimberly Larson,Furniture,Coffee Table,1,62.34,62.34
+Fn553,04-03-2025,Kevin Gutierrez,Furniture,Sofa,4,953.02,3812.08
+Fn554,09-01-2025,Stacy Jones,Furniture,TV Stand,7,682.46,4777.22
+Fn555,13-08-2024,Vanessa Rhodes,Furniture,Bed Frame,1,596.39,596.39
+Fn556,27-12-2024,Keith Smith,Furniture,Desk,10,883.78,8837.8
+Fn557,06-12-2024,David Ross,Furniture,Office Chair,1,279.48,279.48
+Fn558,16-10-2024,Brian Hall,Furniture,Coffee Table,7,678.03,4746.21
+Fn559,17-01-2025,Dr. Bryan Tapia MD,Furniture,Bed Frame,4,603.32,2413.28
+Fn560,20-11-2024,Monica Reynolds,Furniture,Sofa,10,468.18,4681.8
+Fn561,24-01-2025,Tara Allen,Furniture,Recliner,10,632.99,6329.9
+Fn562,04-04-2025,Susan Pratt,Furniture,Dining Table,7,654.06,4578.42
+Fn563,02-03-2025,Scott Carroll,Furniture,Coffee Table,9,969.33,8723.97
+Fn564,17-09-2024,Shawn Meyer,Furniture,Dining Table,6,338.63,2031.78
+Fn565,06-12-2024,Larry Buckley,Furniture,Dining Table,8,723.35,5786.8
+Fn566,01-05-2024,Colleen Harris,Furniture,TV Stand,6,792.45,4754.7
+Fn567,18-08-2024,Tammy Esparza,Furniture,Sofa,5,736.38,3681.9
+Fn568,21-10-2024,Paula James,Furniture,Bookshelf,6,973.07,5838.42
+Fn569,06-05-2024,Theresa Jackson,Furniture,Wardrobe,7,774.99,5424.93
+Fn570,29-01-2025,Stephanie Johnson,Furniture,Dining Table,6,384.26,2305.56
+Fn571,12-06-2024,Kevin Crane,Furniture,Bookshelf,5,326.48,1632.4
+Fn572,23-02-2025,Vanessa Macias,Furniture,Bed Frame,6,63.5,381
+Fn573,04-08-2024,Miss Caitlin Crane DDS,Furniture,Sofa,5,134.88,674.4
+Fn574,30-11-2024,Brenda Chavez,Furniture,Recliner,8,77.18,617.44
+Fn575,01-11-2024,Christopher Vaughn,Furniture,Coffee Table,4,942.18,3768.72
+Fn576,01-02-2025,Brandy Lee,Furniture,Recliner,7,823.05,5761.35
+Fn577,15-04-2025,Keith Villanueva,Furniture,Desk,6,506.22,3037.32
+Fn578,11-02-2025,Brian Howard,Furniture,Recliner,1,565.44,565.44
+Fn579,26-07-2024,Jeremy Welch,Furniture,TV Stand,7,178.91,1252.37
+Fn580,26-06-2024,Ashley Briggs,Furniture,Desk,6,75.62,453.72
+Fn581,23-10-2024,Christopher Munoz,Furniture,Desk,3,96.31,288.93
+Fn582,23-06-2024,Cheryl Miller,Furniture,Recliner,2,77.39,154.78
+Fn583,28-12-2024,Brenda Anderson,Furniture,Coffee Table,6,904.94,5429.64
+Fn584,17-02-2025,Cynthia Gordon,Furniture,Office Chair,2,806.96,1613.92
+Fn585,13-07-2024,Mark Morris,Furniture,Bookshelf,8,322.84,2582.72
+Fn586,05-07-2024,Lori Barr,Furniture,Recliner,10,634.95,6349.5
+Fn587,31-10-2024,Elaine Crawford,Furniture,Bed Frame,5,833.4,4167
+Fn588,11-08-2024,Sophia Gonzalez,Furniture,TV Stand,9,882.4,7941.6
+Fn589,27-05-2024,James Turner,Furniture,TV Stand,7,288.56,2019.92
+Fn590,04-08-2024,Vanessa Rollins,Furniture,Recliner,7,932.68,6528.76
+Fn591,25-05-2024,Mitchell Jackson,Furniture,Wardrobe,1,967.37,967.37
+Fn592,25-03-2025,Nathan Allen,Furniture,Coffee Table,5,734.14,3670.7
+Fn593,30-10-2024,Donna Lewis,Furniture,Desk,10,250.13,2501.3
+Fn594,27-03-2025,Thomas Davidson,Furniture,Bookshelf,2,589.42,1178.84
+Fn595,18-10-2024,Christopher Jones,Furniture,Sofa,7,535.79,3750.53
+Fn596,18-12-2024,Taylor Mccall,Furniture,Dining Table,2,819.1,1638.2
+Fn597,14-09-2024,Aaron Turner,Furniture,Bed Frame,8,459.61,3676.88
+Fn598,27-08-2024,Rodney Bond,Furniture,Bed Frame,4,188.28,753.12
+Fn599,10-01-2025,Taylor King,Furniture,Sofa,5,317.14,1585.7
+Fn600,16-01-2025,Hannah Wyatt DVM,Furniture,Bookshelf,9,276.37,2487.33
+Fn601,25-07-2024,Julie Orr,Furniture,Bed Frame,7,712.79,4989.53
+Fn602,09-05-2024,Stephen Werner,Furniture,TV Stand,3,274.64,823.92
+Fn603,07-12-2024,Sandra Harris,Furniture,Bed Frame,10,533.61,5336.1
+Fn604,02-04-2025,Catherine White,Furniture,Coffee Table,7,529.67,3707.69
+Fn605,17-07-2024,Kevin Baker,Furniture,Coffee Table,7,944.49,6611.43
+Fn606,16-04-2025,Joseph Reynolds,Furniture,TV Stand,1,221.39,221.39
+Fn607,07-06-2024,John Lopez,Furniture,Coffee Table,3,64.82,194.46
+Fn608,17-02-2025,Brittany Haley,Furniture,TV Stand,5,637.21,3186.05
+Fn609,12-10-2024,Cynthia Bray,Furniture,TV Stand,3,320.25,960.75
+Fn610,25-11-2024,John Smith,Furniture,Bed Frame,5,312.24,1561.2
+Fn611,13-10-2024,Jennifer Levy,Furniture,Bed Frame,8,178.21,1425.68
+Fn612,13-05-2024,Thomas Morgan,Furniture,Office Chair,2,820.41,1640.82
+Fn613,28-04-2024,Stephanie Wyatt,Furniture,Dining Table,4,549.32,2197.28
+Fn614,03-01-2025,Brett Jackson,Furniture,Wardrobe,5,272.35,1361.75
+Fn615,12-01-2025,Jeffrey Aguilar,Furniture,TV Stand,6,738.83,4432.98
+Fn616,06-03-2025,Julie Ortega,Furniture,Coffee Table,7,977.36,6841.52
+Fn617,01-08-2024,Sheila Shaw,Furniture,TV Stand,2,944.96,1889.92
+Fn618,17-04-2025,Amanda Rogers,Furniture,TV Stand,5,384.48,1922.4
+Fn619,06-07-2024,Courtney Buckley,Furniture,Bed Frame,10,84.42,844.2
+Fn620,04-10-2024,Sarah Coleman,Furniture,Desk,6,840.38,5042.28
+Fn621,10-12-2024,Gregory Stewart,Furniture,Wardrobe,5,186.09,930.45
+Fn622,14-07-2024,Jeffery Baker,Furniture,Recliner,5,348.38,1741.9
+Fn623,19-07-2024,Monica Mack,Furniture,Dining Table,6,254.06,1524.36
+Fn624,05-02-2025,John Wolfe,Furniture,Coffee Table,9,801.18,7210.62
+Fn625,10-05-2024,Jordan Leon,Furniture,Bed Frame,5,928.8,4644
+Fn626,20-09-2024,Jamie Cardenas,Furniture,Coffee Table,5,555.21,2776.05
+Fn627,12-09-2024,Jennifer Santiago,Furniture,Desk,4,317.52,1270.08
+Fn628,18-03-2025,Michael Perez,Furniture,Recliner,4,591.43,2365.72
+Fn629,03-01-2025,Tracy Chavez,Furniture,Wardrobe,5,409.74,2048.7
+Fn630,10-02-2025,Tanya Webb,Furniture,Desk,9,602.01,5418.09
+Fn631,11-09-2024,Caitlin White,Furniture,Dining Table,3,89.87,269.61
+Fn632,06-08-2024,Larry Pierce,Furniture,Desk,1,431.2,431.2
+Fn633,03-04-2025,James Baldwin,Furniture,Desk,8,281.24,2249.92
+Fn634,18-11-2024,Katherine Robinson,Furniture,TV Stand,2,921.25,1842.5
+Fn635,09-01-2025,Catherine Kelly,Furniture,Bookshelf,2,372.6,745.2
+Fn636,01-07-2024,Gregory Olson,Furniture,Office Chair,6,784.23,4705.38
+Fn637,26-08-2024,Corey Sullivan,Furniture,Desk,5,386.22,1931.1
+Fn638,28-06-2024,Robert Walton,Furniture,Bookshelf,9,340.5,3064.5
+Fn639,16-04-2025,Jeremy Johnson,Furniture,Coffee Table,9,742.57,6683.13
+Fn640,29-07-2024,Joann Williams,Furniture,Office Chair,5,613.91,3069.55
+Fn641,04-11-2024,Jessica Cruz,Furniture,Coffee Table,1,899.29,899.29
+Fn642,29-12-2024,Melissa Mcmillan,Furniture,Wardrobe,3,913.13,2739.39
+Fn643,23-07-2024,Vanessa Bell,Furniture,Bookshelf,4,525.84,2103.36
+Fn644,20-03-2025,Christina Baker,Furniture,Dining Table,3,150.37,451.11
+Fn645,05-12-2024,Raymond Best,Furniture,Desk,5,471.01,2355.05
+Fn646,19-06-2024,Marissa Wall,Furniture,Desk,8,451.35,3610.8
+Fn647,06-06-2024,Deborah Mitchell,Furniture,Desk,2,265.79,531.58
+Fn648,23-09-2024,John Smith Jr.,Furniture,Bed Frame,7,91.95,643.65
+Fn649,15-07-2024,Kimberly Hunt,Furniture,Bed Frame,1,465.98,465.98
+Fn650,11-10-2024,Nicholas Graham DVM,Furniture,Recliner,7,827.54,5792.78
+Fn651,15-09-2024,Helen Harding,Furniture,TV Stand,9,266.65,2399.85
+Fn652,12-09-2024,John Duncan,Furniture,Office Chair,5,98.85,494.25
+Fn653,07-07-2024,Barbara Gonzalez,Furniture,Office Chair,5,488.96,2444.8
+Fn654,05-02-2025,Richard James,Furniture,Bed Frame,3,531.18,1593.54
+Fn655,15-02-2025,Christy Hunt,Furniture,Sofa,9,446.61,4019.49
+Fn656,07-11-2024,Brittney Robertson,Furniture,Wardrobe,2,141.79,283.58
+Fn657,10-10-2024,Patricia Oneal,Furniture,Wardrobe,7,69.91,489.37
+Fn658,26-10-2024,Sylvia Davis,Furniture,Sofa,2,139.85,279.7
+Fn659,30-09-2024,Joshua Kane,Furniture,Wardrobe,8,67.49,539.92
+Fn660,02-01-2025,Tony Villa,Furniture,Recliner,9,883.94,7955.46
+Fn661,14-05-2024,Sonya Johnson,Furniture,TV Stand,8,513.63,4109.04
+Fn662,22-12-2024,Jeremy Peck,Furniture,Dining Table,10,101.3,1013
+Fn663,03-02-2025,Alexis Henderson,Furniture,Bookshelf,7,356.83,2497.81
+Fn664,26-04-2024,Katherine Williamson,Furniture,Sofa,7,379.09,2653.63
+Fn665,21-04-2025,James Flores,Furniture,Sofa,4,781.52,3126.08
+Fn666,17-07-2024,James Thomas,Furniture,Desk,3,111.02,333.06
+Fn667,07-01-2025,Dr. Sarah Larsen,Furniture,Office Chair,4,129.14,516.56
+Fn668,05-04-2025,Valerie Carlson DDS,Furniture,Recliner,3,330.04,990.12
+Fn669,23-05-2024,Joshua Wiley,Furniture,Wardrobe,10,53.75,537.5
+Fn670,04-05-2024,Michael Jones,Furniture,Office Chair,6,581.21,3487.26
+Fn671,24-08-2024,Vanessa Martin,Furniture,Coffee Table,4,265.02,1060.08
+Fn672,06-04-2025,Adrienne Allen,Furniture,Dining Table,1,565.07,565.07
+Fn673,09-05-2024,Nicholas Clark,Furniture,Sofa,4,741.99,2967.96
+Fn674,04-06-2024,Seth Cross,Furniture,Coffee Table,3,690.65,2071.95
+Fn675,12-06-2024,Dr. Taylor Stanley,Furniture,Office Chair,8,123.55,988.4
+Fn676,08-04-2025,Brandi Green,Furniture,Office Chair,5,657.61,3288.05
+Fn677,30-07-2024,Tammy Bauer,Furniture,Office Chair,6,230.39,1382.34
+Fn678,04-09-2024,Rachel Tran,Furniture,Desk,7,201.38,1409.66
+Fn679,01-11-2024,George Jordan,Furniture,Bed Frame,9,474.19,4267.71
+Fn680,26-11-2024,Megan Rosales,Furniture,Bookshelf,3,512.19,1536.57
+Fn681,07-02-2025,Kyle Williams,Furniture,Dining Table,9,538.56,4847.04
+Fn682,08-05-2024,Anthony Garcia,Furniture,Desk,4,760.03,3040.12
+Fn683,06-02-2025,Stephanie Kelley MD,Furniture,Bed Frame,4,65.18,260.72
+Fn684,11-02-2025,Greg Diaz,Furniture,Desk,7,422.67,2958.69
+Fn685,09-07-2024,Jamie Montgomery,Furniture,TV Stand,8,759.42,6075.36
+Fn686,25-05-2024,Christina Wolfe,Furniture,Desk,7,592.73,4149.11
+Fn687,03-06-2024,Christopher Butler,Furniture,Sofa,4,192.3,769.2
+Fn688,26-05-2024,Valerie Munoz,Furniture,Bed Frame,6,635.35,3812.1
+Fn689,25-02-2025,Deborah Berry,Furniture,TV Stand,7,717.54,5022.78
+Fn690,28-01-2025,Michele Mullins,Furniture,Coffee Table,6,635.69,3814.14
+Fn691,29-01-2025,Dean Gay,Furniture,Wardrobe,6,848.49,5090.94
+Fn692,29-08-2024,Melissa Carrillo,Furniture,TV Stand,9,539.99,4859.91
+Fn693,15-03-2025,Amy Irwin,Furniture,Recliner,7,235.61,1649.27
+Fn694,10-04-2025,Curtis Johnson,Furniture,Office Chair,5,328.97,1644.85
+Fn695,14-06-2024,Mandy Perez,Furniture,Bookshelf,6,528.26,3169.56
+Fn696,17-03-2025,Mrs. Linda Castillo MD,Furniture,Coffee Table,9,430.87,3877.83
+Fn697,27-06-2024,Mrs. Chloe Martinez,Furniture,Dining Table,5,663.37,3316.85
+Fn698,17-07-2024,Matthew Higgins,Furniture,Desk,3,628.26,1884.78
+Fn699,03-04-2025,Robert Wright,Furniture,Bookshelf,7,870.22,6091.54
+Fn700,07-05-2024,Christopher Barber,Furniture,Office Chair,1,866.47,866.47
+Fn701,30-10-2024,Alicia Miller,Furniture,Recliner,2,368.03,736.06
+Fn702,08-12-2024,Megan Allen,Furniture,Sofa,4,429.02,1716.08
+Fn703,07-05-2024,Richard Jones,Furniture,Office Chair,10,510.14,5101.4
+Fn704,26-12-2024,Janet Mayo,Furniture,Dining Table,2,281.91,563.82
+Fn705,19-12-2024,Michelle Washington,Furniture,Dining Table,7,611.05,4277.35
+Fn706,12-01-2025,John Sullivan,Furniture,Bed Frame,4,288.68,1154.72
+Fn707,21-08-2024,Natalie Martin,Furniture,Wardrobe,2,579.52,1159.04
+Fn708,29-10-2024,Brian Middleton,Furniture,Office Chair,7,306.33,2144.31
+Fn709,03-04-2025,Leah Lamb,Furniture,TV Stand,4,557.25,2229
+Fn710,05-02-2025,Todd Mitchell,Furniture,Sofa,2,300.72,601.44
+Fn711,31-07-2024,Teresa Cole,Furniture,Office Chair,4,245.7,982.8
+Fn712,02-02-2025,Melissa Black,Furniture,Desk,7,485.23,3396.61
+Fn713,02-08-2024,Nicholas Wells,Furniture,Desk,1,892.58,892.58
+Fn714,05-12-2024,Elizabeth Murray,Furniture,Dining Table,6,153.51,921.06
+Fn715,18-12-2024,Timothy York,Furniture,Bed Frame,8,973.59,7788.72
+Fn716,01-07-2024,Larry Greene,Furniture,TV Stand,8,955.72,7645.76
+Fn717,07-09-2024,Jose Hicks,Furniture,Sofa,9,963.29,8669.61
+Fn718,08-03-2025,Alexander Holloway,Furniture,Coffee Table,6,910.04,5460.24
+Fn719,08-05-2024,Linda Simmons,Furniture,Desk,4,589.26,2357.04
+Fn720,21-05-2024,Jennifer Adkins,Furniture,Recliner,4,535.88,2143.52
+Fn721,30-11-2024,Julia Mcguire,Furniture,Wardrobe,10,745.82,7458.2
+Fn722,07-06-2024,Scott Black,Furniture,Sofa,5,713.47,3567.35
+Fn723,08-07-2024,Susan Leon,Furniture,Coffee Table,2,882.35,1764.7
+Fn724,12-09-2024,Robert Mccall,Furniture,Bookshelf,7,625.65,4379.55
+Fn725,29-04-2024,Amy Wilson,Furniture,Bookshelf,9,412.93,3716.37
+Fn726,09-02-2025,William Parker,Furniture,Sofa,6,914.55,5487.3
+Fn727,23-07-2024,David Jackson,Furniture,Sofa,8,347.69,2781.52
+Fn728,19-06-2024,Maria Pitts,Furniture,Coffee Table,9,112.48,1012.32
+Fn729,19-02-2025,George Miller,Furniture,Desk,4,124.5,498
+Fn730,10-04-2025,Cesar Thompson,Furniture,Office Chair,7,675.77,4730.39
+Fn731,14-03-2025,Sarah Carter,Furniture,Desk,3,118.5,355.5
+Fn732,03-07-2024,Stephanie Garrett,Furniture,Recliner,6,299.21,1795.26
+Fn733,10-01-2025,Craig Johnson,Furniture,Wardrobe,5,488.01,2440.05
+Fn734,07-10-2024,Wanda Coleman,Furniture,Coffee Table,2,860.91,1721.82
+Fn735,15-03-2025,Anna Watson,Furniture,Recliner,7,352.54,2467.78
+Fn736,13-05-2024,Karen King,Furniture,Bed Frame,4,976.6,3906.4
+Fn737,05-08-2024,Laura Johnson,Furniture,Coffee Table,4,93.92,375.68
+Fn738,02-06-2024,Steve Murray,Furniture,TV Stand,9,353.63,3182.67
+Fn739,08-07-2024,Glenn Davis,Furniture,Bookshelf,8,924.45,7395.6
+Fn740,14-11-2024,Mary Wilson,Furniture,Coffee Table,7,841.93,5893.51
+Fn741,26-07-2024,Steven Huerta,Furniture,Office Chair,9,880.31,7922.79
+Fn742,05-07-2024,Rachel Campbell,Furniture,Sofa,9,646.65,5819.85
+Fn743,02-04-2025,Annette Castillo,Furniture,Desk,6,813.7,4882.2
+Fn744,13-01-2025,Eric Jones,Furniture,TV Stand,9,440.77,3966.93
+Fn745,02-11-2024,Katherine Andersen PhD,Furniture,Sofa,1,79.09,79.09
+Fn746,15-12-2024,Gary Reyes,Furniture,Office Chair,5,742.63,3713.15
+Fn747,28-04-2024,John Sharp,Furniture,Dining Table,9,904.91,8144.19
+Fn748,18-02-2025,Stacey Williams,Furniture,Wardrobe,4,687.8,2751.2
+Fn749,15-04-2025,Deanna Graham,Furniture,Recliner,1,408.09,408.09
+Fn750,10-12-2024,Janet Smith,Furniture,Bookshelf,8,117.66,941.28
+Fn751,06-02-2025,Christopher Edwards,Furniture,Dining Table,1,694.12,694.12
+Fn752,16-08-2024,Corey Ruiz,Furniture,Coffee Table,5,998.85,4994.25
+Fn753,11-11-2024,Kevin Yoder,Furniture,Sofa,8,605.09,4840.72
+Fn754,17-01-2025,Marcus Weiss,Furniture,Recliner,10,946.39,9463.9
+Fn755,07-12-2024,Tina Durham,Furniture,Office Chair,8,903.41,7227.28
+Fn756,11-06-2024,Mr. Austin Freeman,Furniture,TV Stand,10,994.47,9944.7
+Fn757,24-11-2024,Jill Mcmahon,Furniture,Bookshelf,6,842.02,5052.12
+Fn758,18-06-2024,Aaron Ramos,Furniture,Dining Table,9,108.28,974.52
+Fn759,07-09-2024,Anna Meyer,Furniture,Wardrobe,3,333.49,1000.47
+Fn760,08-06-2024,Kathleen Cooper,Furniture,Coffee Table,1,948.38,948.38
+Fn761,30-07-2024,Keith Wang PhD,Furniture,Wardrobe,8,200.02,1600.16
+Fn762,06-11-2024,George Morris,Furniture,TV Stand,3,883.68,2651.04
+Fn763,22-04-2025,Cory Velez,Furniture,Dining Table,5,744.12,3720.6
+Fn764,27-04-2024,Terry Bates,Furniture,TV Stand,7,915.73,6410.11
+Fn765,03-11-2024,Katie Watson,Furniture,Sofa,10,86.44,864.4
+Fn766,01-04-2025,Timothy Spencer,Furniture,Dining Table,4,581.43,2325.72
+Fn767,27-01-2025,Mark Ball,Furniture,Sofa,7,874.44,6121.08
+Fn768,09-02-2025,Diane Farrell,Furniture,Sofa,10,677.95,6779.5
+Fn769,14-06-2024,Veronica Hanson,Furniture,Bookshelf,6,301.28,1807.68
+Fn770,31-07-2024,Brenda Johnson,Furniture,Recliner,1,789.06,789.06
+Fn771,23-02-2025,Justin Carr,Furniture,Sofa,6,586.01,3516.06
+Fn772,17-10-2024,Melissa Knapp,Furniture,Coffee Table,5,186.02,930.1
+Fn773,08-01-2025,Angela Chen,Furniture,Desk,2,839.02,1678.04
+Fn774,24-10-2024,James Solis,Furniture,Sofa,4,645.31,2581.24
+Fn775,17-08-2024,Scott Myers,Furniture,TV Stand,7,154.3,1080.1
+Fn776,22-08-2024,Jonathan Marshall,Furniture,TV Stand,6,915,5490
+Fn777,22-08-2024,Katie Jackson,Furniture,Coffee Table,8,223.87,1790.96
+Fn778,31-05-2024,James Martin,Furniture,TV Stand,9,973.52,8761.68
+Fn779,01-04-2025,Diana Wilson,Furniture,Wardrobe,7,986.72,6907.04
+Fn780,12-09-2024,Gina Herring,Furniture,Recliner,6,344.55,2067.3
+Fn781,10-06-2024,Jessica Nielsen,Furniture,Recliner,6,674.79,4048.74
+Fn782,28-07-2024,Joshua Avery,Furniture,Bed Frame,6,800.68,4804.08
+Fn783,25-09-2024,Christina Harris,Furniture,Bookshelf,2,926.84,1853.68
+Fn784,24-04-2025,Jillian Davis,Furniture,Sofa,5,314.57,1572.85
+Fn785,23-10-2024,Brian Wagner,Furniture,Dining Table,8,212.94,1703.52
+Fn786,10-10-2024,Miss Paula Serrano DDS,Furniture,TV Stand,7,972.62,6808.34
+Fn787,01-08-2024,Jeremy Harvey,Furniture,Bed Frame,10,947.92,9479.2
+Fn788,02-02-2025,Jacqueline Ingram,Furniture,Wardrobe,1,382.22,382.22
+Fn789,06-02-2025,Rebecca Carpenter,Furniture,Office Chair,3,955.75,2867.25
+Fn790,27-12-2024,Connie Smith,Furniture,Dining Table,4,715.36,2861.44
+Fn791,11-10-2024,Sharon Drake,Furniture,Sofa,10,136.09,1360.9
+Fn792,29-11-2024,Sharon Eaton,Furniture,Office Chair,6,741.21,4447.26
+Fn793,16-08-2024,James Riley,Furniture,Coffee Table,9,364.17,3277.53
+Fn794,18-12-2024,Melissa Lam,Furniture,Dining Table,3,312.11,936.33
+Fn795,02-05-2024,Tammy Miller,Furniture,Wardrobe,7,719.04,5033.28
+Fn796,25-08-2024,Riley Taylor,Furniture,Bed Frame,1,147.4,147.4
+Fn797,20-03-2025,Nicholas Dougherty,Furniture,Office Chair,10,445.79,4457.9
+Fn798,19-02-2025,Kari Weiss,Furniture,Bookshelf,1,197.52,197.52
+Fn799,15-09-2024,Debbie Taylor,Furniture,Recliner,5,777.42,3887.1
+Fn800,03-06-2024,Jacqueline Long,Furniture,Sofa,3,503.24,1509.72
+Fn801,20-03-2025,Dr. Tracy Thomas,Furniture,Sofa,7,772.62,5408.34
+Fn802,27-03-2025,Kenneth Pennington,Furniture,TV Stand,2,687.2,1374.4
+Fn803,26-06-2024,Monica Roberts,Furniture,Bookshelf,8,200.43,1603.44
+Fn804,16-08-2024,Emily Goodwin,Furniture,Office Chair,7,149.88,1049.16
+Fn805,20-04-2025,Lisa Smith,Furniture,Sofa,10,836.93,8369.3
+Fn806,22-09-2024,Aaron Harrell,Furniture,Bookshelf,3,354.14,1062.42
+Fn807,27-01-2025,Kimberly Estrada,Furniture,Bed Frame,5,397.98,1989.9
+Fn808,04-05-2024,Matthew Ward,Furniture,Coffee Table,1,429.5,429.5
+Fn809,02-12-2024,Kristin Mcguire,Furniture,Recliner,7,81.87,573.09
+Fn810,19-10-2024,Kevin Gray,Furniture,Wardrobe,7,521.88,3653.16
+Fn811,13-02-2025,Gary Macdonald,Furniture,Coffee Table,9,385.21,3466.89
+Fn812,22-05-2024,Dean Thomas,Furniture,Dining Table,6,610.32,3661.92
+Fn813,03-11-2024,Andrew Morales,Furniture,Office Chair,2,754.16,1508.32
+Fn814,17-03-2025,Kenneth Black,Furniture,Bed Frame,6,388.3,2329.8
+Fn815,04-05-2024,Patrick Contreras,Furniture,Recliner,1,133.17,133.17
+Fn816,23-07-2024,Craig Lopez,Furniture,Coffee Table,6,625.95,3755.7
+Fn817,13-01-2025,Christopher Cooper,Furniture,Coffee Table,7,296.94,2078.58
+Fn818,03-11-2024,Brittany Jackson,Furniture,Recliner,8,950.29,7602.32
+Fn819,24-05-2024,David Dillon,Furniture,Coffee Table,3,845.79,2537.37
+Fn820,21-09-2024,Heather Bailey,Furniture,TV Stand,1,304.68,304.68
+Fn821,08-12-2024,Steven Wong,Furniture,Bookshelf,3,370.76,1112.28
+Fn822,13-04-2025,Rachel Kirk,Furniture,Dining Table,9,464,4176
+Fn823,13-09-2024,Kendra Murray,Furniture,Bookshelf,6,809.68,4858.08
+Fn824,07-06-2024,John Bradshaw,Furniture,Desk,8,975.58,7804.64
+Fn825,14-04-2025,Joel Holt,Furniture,Recliner,9,121.36,1092.24
+Fn826,25-04-2025,Katie Jackson,Furniture,Dining Table,6,115.41,692.46
+Fn827,01-09-2024,Victoria Kim,Furniture,Office Chair,8,156.06,1248.48
+Fn828,24-09-2024,Susan Gomez,Furniture,Sofa,10,158.55,1585.5
+Fn829,05-03-2025,Sandra Dominguez,Furniture,TV Stand,5,336.65,1683.25
+Fn830,18-03-2025,Joel Nielsen,Furniture,Recliner,10,576.76,5767.6
+Fn831,24-12-2024,Sharon Jensen,Furniture,Office Chair,7,127.8,894.6
+Fn832,09-04-2025,Kelly Mcdonald,Furniture,TV Stand,6,794.8,4768.8
+Fn833,17-03-2025,Evan Wagner,Furniture,Office Chair,7,755.91,5291.37
+Fn834,01-04-2025,Dustin Brown,Furniture,TV Stand,2,403.61,807.22
+Fn835,25-03-2025,Samantha Curry,Furniture,TV Stand,4,221.36,885.44
+Fn836,06-04-2025,Natalie Torres,Furniture,Dining Table,10,758.53,7585.3
+Fn837,25-05-2024,Troy Cobb,Furniture,Bookshelf,7,637.01,4459.07
+Fn838,13-07-2024,Timothy Miller,Furniture,Dining Table,2,752.18,1504.36
+Fn839,30-12-2024,Renee Bryan,Furniture,Coffee Table,9,987.99,8891.91
+Fn840,02-12-2024,Danielle Gray,Furniture,Office Chair,9,490.98,4418.82
+Fn841,03-06-2024,Adam Stephens,Furniture,Office Chair,10,835.11,8351.1
+Fn842,30-10-2024,Julie Black,Furniture,Wardrobe,1,491.22,491.22
+Fn843,14-06-2024,Jeremy Russell,Furniture,Bed Frame,6,293.68,1762.08
+Fn844,18-11-2024,Jason Robinson,Furniture,Coffee Table,1,496.72,496.72
+Fn845,23-01-2025,Cynthia Hendrix,Furniture,Dining Table,10,523.55,5235.5
+Fn846,13-03-2025,Tracy Morris,Furniture,Wardrobe,10,830.54,8305.4
+Fn847,01-03-2025,Joshua Manning,Furniture,Sofa,6,728.19,4369.14
+Fn848,11-04-2025,Nancy Murray,Furniture,Dining Table,3,479.58,1438.74
+Fn849,04-01-2025,Mark Tran,Furniture,Sofa,2,570.11,1140.22
+Fn850,09-06-2024,Deborah Taylor,Furniture,Recliner,6,443.51,2661.06
+Fn851,11-05-2024,Margaret Sanchez,Furniture,Bookshelf,2,926.89,1853.78
+Fn852,28-08-2024,Yvonne Taylor,Furniture,Office Chair,6,876.08,5256.48
+Fn853,02-02-2025,Chase Cain,Furniture,Coffee Table,9,405.83,3652.47
+Fn854,15-11-2024,Sandra Richardson,Furniture,Dining Table,1,840.91,840.91
+Fn855,30-04-2024,Andrew Schneider,Furniture,Office Chair,1,713.71,713.71
+Fn856,27-01-2025,Deborah Lawson,Furniture,Dining Table,7,242.97,1700.79
+Fn857,14-06-2024,Sean Ross,Furniture,Bed Frame,4,336.29,1345.16
+Fn858,09-11-2024,John Cuevas,Furniture,Sofa,4,452.48,1809.92
+Fn859,08-10-2024,Maria Martinez,Furniture,Bed Frame,3,569.74,1709.22
+Fn860,06-10-2024,Patrick Braun,Furniture,Desk,3,444.39,1333.17
+Fn861,02-01-2025,Kaylee Roberts MD,Furniture,Coffee Table,3,139.92,419.76
+Fn862,15-01-2025,Megan Mann,Furniture,Bookshelf,8,366.35,2930.8
+Fn863,22-11-2024,James Briggs,Furniture,Bed Frame,9,451.43,4062.87
+Fn864,29-11-2024,Jennifer Glover,Furniture,Sofa,1,381.47,381.47
+Fn865,22-08-2024,Kristina Gilbert,Furniture,Desk,9,421.18,3790.62
+Fn866,28-09-2024,Nancy Wright,Furniture,Bed Frame,9,508.02,4572.18
+Fn867,22-11-2024,Mr. Bobby Calderon,Furniture,Desk,3,881.07,2643.21
+Fn868,13-11-2024,Samantha Patel,Furniture,Office Chair,9,421.28,3791.52
+Fn869,21-10-2024,Julie Nichols,Furniture,TV Stand,10,468.56,4685.6
+Fn870,10-09-2024,Cassandra Hobbs,Furniture,Coffee Table,4,781.46,3125.84
+Fn871,25-09-2024,Jesse Miller,Furniture,Dining Table,9,857.05,7713.45
+Fn872,22-03-2025,Thomas Rivera,Furniture,Recliner,1,107.06,107.06
+Fn873,24-01-2025,Steven Chen,Furniture,Dining Table,5,787.23,3936.15
+Fn874,21-05-2024,Teresa Campbell,Furniture,Coffee Table,9,871.01,7839.09
+Fn875,13-01-2025,Tiffany Alexander,Furniture,Wardrobe,6,193.52,1161.12
+Fn876,27-12-2024,Steven Hogan,Furniture,Sofa,2,176.82,353.64
+Fn877,09-01-2025,Jennifer Sheppard,Furniture,Recliner,1,906.9,906.9
+Fn878,13-12-2024,Sharon Mahoney,Furniture,Coffee Table,6,896.75,5380.5
+Fn879,23-01-2025,Mr. Thomas Spence,Furniture,Coffee Table,3,116.91,350.73
+Fn880,02-10-2024,Christopher Gray,Furniture,Coffee Table,9,732.02,6588.18
+Fn881,25-12-2024,Glenda Gonzalez,Furniture,Sofa,8,981.68,7853.44
+Fn882,17-02-2025,Julia Wilcox,Furniture,Recliner,7,613.99,4297.93
+Fn883,07-09-2024,Heather Williams,Furniture,TV Stand,7,255.02,1785.14
+Fn884,14-12-2024,Daniel Walsh,Furniture,Dining Table,2,250.67,501.34
+Fn885,11-03-2025,William Ross,Furniture,Coffee Table,6,752.65,4515.9
+Fn886,30-05-2024,Daniel Moore,Furniture,Sofa,3,343.47,1030.41
+Fn887,14-10-2024,Lori Ray,Furniture,Bookshelf,6,507.42,3044.52
+Fn888,29-11-2024,Jennifer Mercer,Furniture,Desk,5,769.08,3845.4
+Fn889,28-11-2024,David Harris,Furniture,Wardrobe,3,321.31,963.93
+Fn890,15-05-2024,Gary Hill,Furniture,Sofa,7,190.63,1334.41
+Fn891,01-11-2024,Andrew Alexander,Furniture,Desk,3,335.87,1007.61
+Fn892,13-09-2024,Bradley Sharp,Furniture,Dining Table,10,755.13,7551.3
+Fn893,07-02-2025,Michele Houston,Furniture,TV Stand,4,203.21,812.84
+Fn894,21-09-2024,Richard Kirby,Furniture,Wardrobe,9,118.63,1067.67
+Fn895,24-04-2025,Rebecca Williams,Furniture,Sofa,4,964.9,3859.6
+Fn896,26-12-2024,Jerry Walker,Furniture,Sofa,2,873.53,1747.06
+Fn897,25-05-2024,Christy Rodriguez,Furniture,Dining Table,9,484.21,4357.89
+Fn898,07-09-2024,Olivia Scott,Furniture,Dining Table,6,82.74,496.44
+Fn899,13-05-2024,Clarence Hall,Furniture,TV Stand,3,987.24,2961.72
+Fn900,30-09-2024,Melissa Marshall,Furniture,Recliner,7,808.24,5657.68
+Fn901,22-03-2025,Veronica Smith,Furniture,Bed Frame,2,95.3,190.6
+Fn902,05-02-2025,Savannah Schultz,Furniture,Dining Table,2,366.76,733.52
+Fn903,28-07-2024,Ann Wright,Furniture,Coffee Table,10,421.94,4219.4
+Fn904,12-06-2024,Aaron Mccarthy,Furniture,Dining Table,9,335.15,3016.35
+Fn905,21-03-2025,Kristen Wilcox,Furniture,Office Chair,5,550.51,2752.55
+Fn906,08-03-2025,Latoya Garcia,Furniture,TV Stand,7,785.01,5495.07
+Fn907,15-08-2024,Margaret Strong,Furniture,Coffee Table,7,637.77,4464.39
+Fn908,26-04-2024,Rachel Potts,Furniture,Coffee Table,2,147.04,294.08
+Fn909,01-08-2024,Dustin Ferrell,Furniture,Coffee Table,6,576.48,3458.88
+Fn910,16-05-2024,Megan Vasquez,Furniture,Bed Frame,6,427.76,2566.56
+Fn911,28-02-2025,Shelby Lewis,Furniture,Bed Frame,5,128.46,642.3
+Fn912,03-06-2024,Hailey Flores,Furniture,Desk,2,805.17,1610.34
+Fn913,16-07-2024,Shawn Sanchez,Furniture,Sofa,2,881.82,1763.64
+Fn914,26-06-2024,Nicole Rodriguez,Furniture,Bed Frame,1,578.6,578.6
+Fn915,26-04-2024,William Cruz,Furniture,Bed Frame,3,153.95,461.85
+Fn916,14-02-2025,Christine Shaw,Furniture,Office Chair,3,658.27,1974.81
+Fn917,12-06-2024,Morgan Vega,Furniture,Wardrobe,2,569.8,1139.6
+Fn918,08-03-2025,Paul Williams,Furniture,Coffee Table,6,516.88,3101.28
+Fn919,10-11-2024,Gregory Vance,Furniture,Coffee Table,3,261.77,785.31
+Fn920,11-12-2024,Pamela Livingston,Furniture,Bookshelf,3,669.1,2007.3
+Fn921,13-06-2024,Scott Pearson,Furniture,Bookshelf,1,242.27,242.27
+Fn922,01-01-2025,Brandon Lopez,Furniture,Wardrobe,9,902.99,8126.91
+Fn923,22-05-2024,Tammy Jones,Furniture,Recliner,9,825.83,7432.47
+Fn924,27-09-2024,Erica Richardson,Furniture,Wardrobe,7,983.82,6886.74
+Fn925,05-03-2025,Steven Hall,Furniture,Bed Frame,5,436.38,2181.9
+Fn926,02-02-2025,Isaac Smith,Furniture,Office Chair,8,690.07,5520.56
+Fn927,19-11-2024,Courtney Fox,Furniture,Bookshelf,9,860.27,7742.43
+Fn928,16-09-2024,Lee Wall,Furniture,Office Chair,1,760.87,760.87
+Fn929,31-01-2025,Steven Chase,Furniture,Wardrobe,1,785.76,785.76
+Fn930,29-07-2024,Jeremy Barry,Furniture,Bed Frame,1,239.3,239.3
+Fn931,13-08-2024,James Lin,Furniture,Recliner,2,923.25,1846.5
+Fn932,22-12-2024,Hannah Clark,Furniture,Bed Frame,2,53.82,107.64
+Fn933,01-06-2024,Regina Fuentes,Furniture,Desk,5,139.53,697.65
+Fn934,31-08-2024,Brad Taylor,Furniture,Bookshelf,3,141.31,423.93
+Fn935,13-12-2024,Aaron Combs,Furniture,Bookshelf,4,108.54,434.16
+Fn936,02-02-2025,Nicole Haney,Furniture,Office Chair,7,593.3,4153.1
+Fn937,21-07-2024,Gina Nichols,Furniture,Sofa,7,169.54,1186.78
+Fn938,11-09-2024,Tracy Hodge,Furniture,Desk,2,825.55,1651.1
+Fn939,22-08-2024,Monica Robbins,Furniture,Wardrobe,6,958.41,5750.46
+Fn940,24-01-2025,Shaun Yu,Furniture,Bed Frame,5,839.85,4199.25
+Fn941,08-09-2024,Lindsey Martinez,Furniture,TV Stand,7,180.66,1264.62
+Fn942,25-09-2024,Sarah Morales,Furniture,Bookshelf,9,160.74,1446.66
+Fn943,27-01-2025,Kayla Scott,Furniture,Desk,7,343.65,2405.55
+Fn944,03-09-2024,Jeffrey Hensley,Furniture,Wardrobe,1,568.28,568.28
+Fn945,29-04-2024,Patrick Smith Jr.,Furniture,Bed Frame,10,801.96,8019.6
+Fn946,17-04-2025,Adrian Shea,Furniture,Wardrobe,8,256.6,2052.8
+Fn947,30-08-2024,Whitney King,Furniture,Office Chair,8,500.37,4002.96
+Fn948,02-03-2025,Dawn Simpson,Furniture,TV Stand,7,298.6,2090.2
+Fn949,11-10-2024,David Kim,Furniture,Office Chair,1,902.02,902.02
+Fn950,03-10-2024,Christopher Williams,Furniture,Bed Frame,5,354.07,1770.35
+Fn951,22-10-2024,Chad Costa,Furniture,Dining Table,4,587.99,2351.96
+Fn952,16-11-2024,Pamela Hunt,Furniture,Recliner,5,570.92,2854.6
+Fn953,05-08-2024,David Brown,Furniture,Desk,6,394.87,2369.22
+Fn954,28-09-2024,Jennifer King,Furniture,Wardrobe,8,419.44,3355.52
+Fn955,28-02-2025,Amber Alexander,Furniture,Wardrobe,5,583.44,2917.2
+Fn956,07-05-2024,Joseph Brown,Furniture,Wardrobe,7,580.24,4061.68
+Fn957,11-08-2024,Joseph Jones,Furniture,Wardrobe,4,833.29,3333.16
+Fn958,25-06-2024,Tracy Black,Furniture,Sofa,3,144.56,433.68
+Fn959,09-01-2025,Kelly Watkins,Furniture,Recliner,6,780.35,4682.1
+Fn960,26-06-2024,Miranda Garcia,Furniture,Recliner,9,140.92,1268.28
+Fn961,16-09-2024,Spencer Cantrell,Furniture,Office Chair,4,979.83,3919.32
+Fn962,30-07-2024,Kenneth Alvarez,Furniture,Wardrobe,1,786,786
+Fn963,27-08-2024,Arthur Casey,Furniture,TV Stand,4,691.73,2766.92
+Fn964,21-01-2025,Nichole Long,Furniture,Office Chair,4,402.69,1610.76
+Fn965,31-10-2024,Dawn Chaney,Furniture,Desk,1,680.69,680.69
+Fn966,15-04-2025,Sandra Gonzalez,Furniture,Desk,9,708.18,6373.62
+Fn967,26-02-2025,Tracy Parrish,Furniture,Office Chair,8,725.19,5801.52
+Fn968,12-01-2025,Helen Buck,Furniture,Bookshelf,3,899.6,2698.8
+Fn969,07-07-2024,Joshua Diaz,Furniture,Coffee Table,8,466.6,3732.8
+Fn970,22-05-2024,Shawn Cruz,Furniture,Recliner,3,489.68,1469.04
+Fn971,20-05-2024,Steven Wallace,Furniture,Coffee Table,8,392.19,3137.52
+Fn972,29-04-2024,Michelle Park,Furniture,Bookshelf,10,250.2,2502
+Fn973,22-11-2024,Christy Johnson,Furniture,TV Stand,5,687.93,3439.65
+Fn974,23-09-2024,Christine Garrett,Furniture,TV Stand,9,150.29,1352.61
+Fn975,19-04-2025,Melissa Lee,Furniture,Coffee Table,7,486.01,3402.07
+Fn976,30-10-2024,Michael Brady,Furniture,Dining Table,4,860.28,3441.12
+Fn977,02-04-2025,Ryan Mcintosh,Furniture,TV Stand,9,360.16,3241.44
+Fn978,01-11-2024,Tiffany Smith,Furniture,Wardrobe,3,840.41,2521.23
+Fn979,06-06-2024,Megan Navarro,Furniture,Coffee Table,10,386.57,3865.7
+Fn980,06-06-2024,Paul Armstrong,Furniture,Wardrobe,9,970.48,8734.32
+Fn981,03-12-2024,Frank Garcia,Furniture,Bed Frame,5,656.79,3283.95
+Fn982,29-01-2025,Randy Sullivan,Furniture,TV Stand,9,107.97,971.73
+Fn983,31-07-2024,Logan Miles,Furniture,Dining Table,10,648.81,6488.1
+Fn984,15-05-2024,Megan Riley,Furniture,Bed Frame,4,986.27,3945.08
+Fn985,06-01-2025,Jennifer Bowers,Furniture,Bookshelf,2,744.06,1488.12
+Fn986,09-05-2024,Jennifer Miranda,Furniture,Desk,4,281.45,1125.8
+Fn987,16-02-2025,Paula Frazier,Furniture,Bookshelf,8,876.98,7015.84
+Fn988,24-03-2025,James Fisher,Furniture,Office Chair,10,944.79,9447.9
+Fn989,05-11-2024,Michelle Harris,Furniture,TV Stand,9,513.77,4623.93
+Fn990,19-05-2024,Christopher Jacobs,Furniture,Coffee Table,8,191.74,1533.92
+Fn991,09-11-2024,Heather Foster,Furniture,Recliner,6,627.47,3764.82
+Fn992,13-08-2024,Colleen Knight,Furniture,Bed Frame,1,636.41,636.41
+Fn993,03-12-2024,Mary Mcguire,Furniture,Bed Frame,4,345.17,1380.68
+Fn994,09-12-2024,Andrea White,Furniture,Dining Table,5,542.2,2711
+Fn995,29-03-2025,Jason Rice,Furniture,Dining Table,5,103.92,519.6
+Fn996,09-05-2024,James Gomez,Furniture,Office Chair,8,259.9,2079.2
+Fn997,12-06-2024,Aaron Rodriguez,Furniture,TV Stand,5,912.43,4562.15
+Fn998,14-03-2025,Jennifer Garcia,Furniture,Recliner,7,108.3,758.1
+Fn999,04-04-2025,Patrick Carroll,Furniture,Coffee Table,8,479.4,3835.2
+Fn1000,20-12-2024,Nancy Cruz,Furniture,Coffee Table,2,144.06,288.12
+Fn1001,23-05-2024,Shannon Davidson,Furniture,TV Stand,6,939.52,5637.12
+Fn1002,23-01-2025,Rodney Dominguez,Furniture,Sofa,9,599.97,5399.73
+Fn1003,23-02-2025,Lindsey Wilkins,Furniture,Coffee Table,5,796.39,3981.95
+Fn1004,18-03-2025,Timothy Henderson,Furniture,TV Stand,1,344.4,344.4
+Fn1005,10-07-2024,Tonya Ellison,Furniture,Office Chair,10,199.82,1998.2
+Fn1006,28-10-2024,Michael Snyder MD,Furniture,Dining Table,6,255.86,1535.16
+Fn1007,12-09-2024,Frank Wallace,Furniture,Sofa,3,646.8,1940.4
+Fn1008,13-12-2024,Kim Monroe,Furniture,Coffee Table,1,640.65,640.65
+Fn1009,03-09-2024,Jason Reynolds,Furniture,Wardrobe,7,905.65,6339.55
